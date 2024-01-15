@@ -3,7 +3,7 @@
 同时记录了各科八股可能提问的问题和答案
 
 ## 力扣目录:
-**1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj)** -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
+1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/submissions/495660780/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
 
 ## 八股目录:
