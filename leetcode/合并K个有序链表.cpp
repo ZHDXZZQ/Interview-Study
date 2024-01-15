@@ -2,6 +2,7 @@
 // 1. 构建一个小根堆，将每个链表的头节点入堆
 // 2. 堆顶为当前各链表头节点的最小元素，每次摘出堆顶到答案
 // 3. 摘出后如果该节点所在链表还有后续节点，就让后续节点入堆
+
 class Solution {
 public:
 	ListNode* mergeKLists(vector<ListNode*>& lists) {
