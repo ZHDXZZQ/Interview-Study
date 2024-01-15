@@ -9,7 +9,7 @@ public:
 			bool operator()(ListNode* a, ListNode* b) {
 				return a->val > b->val;  //这里，左大于右是小根堆，反过来是大根堆
 			}
-		};  //优先队列的比较类：重载()运算符通过仿函数实现小根堆，为什么这么做咱也不懂
+		};  //优先队列的比较类：重载()运算符通过仿函数实现小根堆
 		priority_queue<ListNode*, vector<ListNode*>, cmp> rec;
 		//不加cmp默认构造int型大根堆。第一个参数为该优先队列的类型；第二个参数为存储第一个参数类型所用的容器且必须是vector或queue等数组实现的容器；第三个参数是比较方式，比如less<int>（less是默认的大根堆）或greater<int>或者这种非int型要用cmp类构造。
 		//优先队列的操作类似栈，push，top，pop
