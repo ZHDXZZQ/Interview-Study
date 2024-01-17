@@ -15,6 +15,7 @@
 11. [**买卖股票的最佳时机 - 简单**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/买卖股票的最佳时机.cpp)
 12. [**买卖股票的最佳时机II - 中等**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/买卖股票的最佳时机II.cpp)
 13. [**跳跃游戏 - 简单**](https://leetcode.cn/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/跳跃游戏.cpp)
+14. [**跳跃游戏II - 中等**](https://leetcode.cn/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/跳跃游戏II.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
