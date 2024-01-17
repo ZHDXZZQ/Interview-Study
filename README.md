@@ -17,6 +17,8 @@
 13. [**跳跃游戏 - 简单**](https://leetcode.cn/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/跳跃游戏.cpp)
 14. [**跳跃游戏II - 中等**](https://leetcode.cn/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/跳跃游戏II.cpp)
 15. [**除自身以外数组的乘积 - 中等**](https://leetcode.cn/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/除自身以外数组的乘积.cpp)
+16. [**最后一个单词的长度 - 简单**](https://leetcode.cn/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最后一个单词的长度.cpp)
+17. [**最长公共前缀 - 简单**](https://leetcode.cn/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最长公共前缀.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
