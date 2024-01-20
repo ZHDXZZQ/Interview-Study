@@ -23,6 +23,7 @@
 19. [**Z字形变换 - 中等**](https://leetcode.cn/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/Z字形变换.cpp)
 20. [**整数转罗马数字 - 中等**](https://leetcode.cn/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/整数转罗马数字.cpp)
 21. [**罗马数字转整数 - 简单**](https://leetcode.cn/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/罗马数字转整数.cpp)
+22. [**赎金信 - 简单**](https://leetcode.cn/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/赎金信.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
