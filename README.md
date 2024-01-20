@@ -27,6 +27,7 @@
 23. [**加油站 - 中等**](https://leetcode.cn/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/加油站.cpp)
 24. [**分发糖果 - 困难**](https://leetcode.cn/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/分发糖果.cpp)
 25. [**判断子序列 - 简单**](https://leetcode.cn/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/判断子序列.cpp)
+26. [**汇总区间 - 简单**](https://leetcode.cn/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/汇总区间.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
