@@ -25,6 +25,7 @@
 21. [**罗马数字转整数 - 简单**](https://leetcode.cn/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/罗马数字转整数.cpp)
 22. [**赎金信 - 简单**](https://leetcode.cn/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/赎金信.cpp)
 23. [**加油站 - 中等**](https://leetcode.cn/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/加油站.cpp)
+24. [**分发糖果 - 困难**](https://leetcode.cn/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/分发糖果.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
