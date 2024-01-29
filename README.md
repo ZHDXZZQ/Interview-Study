@@ -32,6 +32,8 @@
 28. [**两数之和II-输入有序数组 - 中等**](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/两数之和II-输入有序数组.cpp)
 29. [**同构字符串 - 简单**](https://leetcode.cn/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/同构字符串.cpp)
 30. [**合并区间 - 中等**](https://leetcode.cn/problems/merge-intervals/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并区间.cpp)
+31. [**爬楼梯 - 简单**](https://leetcode.cn/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/爬楼梯.cpp)
+32. [**环形链表 - 简单**](https://leetcode.cn/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/环形链表.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
