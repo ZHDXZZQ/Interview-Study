@@ -36,6 +36,7 @@
 32. [**环形链表 - 简单**](https://leetcode.cn/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/环形链表.cpp)
 33. [**岛屿数量 - 中等**](https://leetcode.cn/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/岛屿数量.cpp)
 34. [**只出现一次的数字 - 简单**](https://leetcode.cn/problems/single-number/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/只出现一次的数字.cpp)
+35. [**打家劫舍 - 中等**](https://leetcode.cn/problems/house-robber/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/打家劫舍.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
