@@ -39,6 +39,9 @@
 35. [**打家劫舍 - 中等**](https://leetcode.cn/problems/house-robber/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/打家劫舍.cpp)
 36. [**删除链表的倒数第N个节点 - 中等**](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/删除链表的倒数第N个节点.cpp)
 37. [**两数之和 - 简单**](https://leetcode.cn/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/两数之和.cpp)
+38. [**有效的括号 - 简单**](https://leetcode.cn/problems/valid-parentheses/description/) -> [**题目详解**](./leetcode/有效的括号.cpp)
+39. [**插入区间 - 中等**](https://leetcode.cn/problems/insert-interval/description/) -> [**题目详解**](./leetcode/插入区间.cpp)
+40. [**单词规律 - 简单**](https://leetcode.cn/problems/word-pattern/description/) -> [**题目详解**](./leetcode/单词规律.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
