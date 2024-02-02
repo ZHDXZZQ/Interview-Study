@@ -42,6 +42,9 @@
 38. [**有效的括号 - 简单**](https://leetcode.cn/problems/valid-parentheses/description/) -> [**题目详解**](./leetcode/有效的括号.cpp)
 39. [**插入区间 - 中等**](https://leetcode.cn/problems/insert-interval/description/) -> [**题目详解**](./leetcode/插入区间.cpp)
 40. [**单词规律 - 简单**](https://leetcode.cn/problems/word-pattern/description/) -> [**题目详解**](./leetcode/单词规律.cpp)
+41. [**长度最小的子数组 - 中等**](https://leetcode.cn/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/长度最小的子数组.cpp)
+42. [**合并两个有序链表 - 简单**](https://leetcode.cn/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序链表.cpp)
+43. [****]() -> [**题目详解**](./leetcode/单词规律.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
