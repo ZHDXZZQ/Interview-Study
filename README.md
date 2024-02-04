@@ -46,7 +46,7 @@
 42. [**合并两个有序链表 - 简单**](https://leetcode.cn/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序链表.cpp)
 43. [**最长连续序列 - 中等**](https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最长连续序列.cpp)
 44. [**无重复字符的最长子串 - 中等**](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/无重复字符的最长子串.cpp)
-45. [****]() -> [**题目详解**](./leetcode/单词规律.cpp)
+45. [**有效的字母异位词 - 简单**](https://leetcode.cn/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/有效的字母异位词.cpp)
 46. [****]() -> [**题目详解**](./leetcode/单词规律.cpp)
 
 ## 八股目录:
