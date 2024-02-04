@@ -47,7 +47,8 @@
 43. [**最长连续序列 - 中等**](https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最长连续序列.cpp)
 44. [**无重复字符的最长子串 - 中等**](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/无重复字符的最长子串.cpp)
 45. [**有效的字母异位词 - 简单**](https://leetcode.cn/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/有效的字母异位词.cpp)
-46. [****]() -> [**题目详解**](./leetcode/单词规律.cpp)
+46. [**存在重复元素II - 简单**](https://leetcode.cn/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/存在重复元素II.cpp)
+47. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
