@@ -51,7 +51,7 @@
 47. [**二叉树的最大深度 - 简单**](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的最大深度.cpp)
 48. [**相同的树 - 简单**](https://leetcode.cn/problems/same-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/相同的树.cpp)
 49. [**翻转二叉树 - 简单**](https://leetcode.cn/problems/invert-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/翻转二叉树.cpp)
-50. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+50. [**对称二叉树 - 简单**](https://leetcode.cn/problems/symmetric-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/对称二叉树.cpp)
 51. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 52. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 53. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
