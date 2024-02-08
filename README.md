@@ -56,7 +56,7 @@
 52. [**实现Trie（前缀树） - 中等**](https://leetcode.cn/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/实现Trie（前缀树）.cpp)
 53. [**二叉树的层序遍历 - 中等**](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的层序遍历.cpp)
 55. [**二叉树的层平均值 - 简单**](https://leetcode.cn/problems/average-of-levels-in-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的层平均值.cpp)
-56. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+56. [**路径总和 - 简单**](https://leetcode.cn/problems/path-sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/路径总和.cpp)
 57. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
