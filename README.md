@@ -61,7 +61,8 @@
 57. [**两数相加 - 中等**](https://leetcode.cn/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/两数相加.cpp)
 58. [**旋转链表 - 中等**](https://leetcode.cn/problems/rotate-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/旋转链表.cpp)
 59. [**三数之和 - 中等**](https://leetcode.cn/problems/3sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/三数之和.cpp)
-60. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+60. [**分隔链表 - 中等**](https://leetcode.cn/problems/partition-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/分隔链表.cpp)
+61. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
