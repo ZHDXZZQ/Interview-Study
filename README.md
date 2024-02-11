@@ -59,8 +59,9 @@
 56. [**路径总和 - 简单**](https://leetcode.cn/problems/path-sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/路径总和.cpp)
 57. [**LRU缓存 - 中等**](https://leetcode.cn/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/LRU缓存.cpp)
 58. [**两数相加 - 中等**](https://leetcode.cn/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/两数相加.cpp)
-59. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+59. [**旋转链表 - 中等**](https://leetcode.cn/problems/rotate-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/旋转链表.cpp)
 60. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+61. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
