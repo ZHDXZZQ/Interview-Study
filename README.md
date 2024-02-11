@@ -60,7 +60,7 @@
 57. [**LRU缓存 - 中等**](https://leetcode.cn/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/LRU缓存.cpp)
 58. [**两数相加 - 中等**](https://leetcode.cn/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/两数相加.cpp)
 59. [**旋转链表 - 中等**](https://leetcode.cn/problems/rotate-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/旋转链表.cpp)
-60. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+60. [**三数之和 - 中等**](https://leetcode.cn/problems/3sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/三数之和.cpp)
 61. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
