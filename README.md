@@ -66,7 +66,7 @@
 62. [**加一 - 简单**](https://leetcode.cn/problems/plus-one/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/加一.cpp)
 63. [**二进制求和 - 简单**](https://leetcode.cn/problems/add-binary/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二进制求和.cpp)
 64. [**被围绕的区域 - 中等**](https://leetcode.cn/problems/surrounded-regions/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/被围绕的区域.cpp)
-65. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+65. [**二叉树展开为链表 - 中等**](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树展开为链表.cpp)
 66. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 67. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
