@@ -26,11 +26,6 @@ public:
     }
 
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        int n = nums.size();
-        int pos =  (n - 1) / 2;     //找所有数的中位数作为根节点
-        TreeNode* root = new TreeNode(nums[pos]);
-        root->left = insert(nums, 0, pos - 1);  //根节点的左右孩子就是左右两个区间的中位数
-        root->right = insert(nums, pos + 1, n - 1);
-        return root;
+        return insert(nums, 0, nums.size() - 1);
     }
 };
