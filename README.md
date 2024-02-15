@@ -68,7 +68,10 @@
 64. [**被围绕的区域 - 中等**](https://leetcode.cn/problems/surrounded-regions/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/被围绕的区域.cpp)
 65. [**二叉树展开为链表 - 中等**](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树展开为链表.cpp)
 66. [**将有序数组转换为二叉搜索树 - 简单**](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/将有序数组转换为二叉搜索树.cpp)
-67. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+67. [**求根节点到叶节点数字之和 - 中等**](https://leetcode.cn/problems/sum-root-to-leaf-numbers/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/求根节点到叶节点数字之和.cpp)
+68. [**二叉树中的最大路径和 - 困难**](https://leetcode.cn/problems/binary-tree-maximum-path-sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树中的最大路径和.cpp)
+69. [**字母异位词分组 - 中等**](https://leetcode.cn/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/xx字母异位词分组xx.cpp)
+70. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
