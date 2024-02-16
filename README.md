@@ -74,7 +74,7 @@
 70. [**盛水最多的容器 - 中等**](https://leetcode.cn/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/盛水最多的容器.cpp)
 71. [**二叉树的右视图 - 中等**](https://leetcode.cn/problems/binary-tree-right-side-view/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的右视图.cpp)
 72. [**二叉搜索树的最小绝对差 - 简单**](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉搜索树的最小绝对差.cpp)
-73. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+73. [**用最少数量的箭引爆气球 - 中等**](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/用最少数量的箭引爆气球.cpp)
 74. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
