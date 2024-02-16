@@ -71,7 +71,11 @@
 67. [**求根节点到叶节点数字之和 - 中等**](https://leetcode.cn/problems/sum-root-to-leaf-numbers/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/求根节点到叶节点数字之和.cpp)
 68. [**二叉树中的最大路径和 - 困难**](https://leetcode.cn/problems/binary-tree-maximum-path-sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树中的最大路径和.cpp)
 69. [**字母异位词分组 - 中等**](https://leetcode.cn/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/xx字母异位词分组xx.cpp)
-70. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+70. [**盛水最多的容器 - 中等**](https://leetcode.cn/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/盛水最多的容器.cpp)
+71. [**二叉树的右视图 - 中等**](https://leetcode.cn/problems/binary-tree-right-side-view/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的右视图.cpp)
+72. [**二叉搜索树的最小绝对差 - 简单**](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉搜索树的最小绝对差.cpp)
+73. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+74. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
