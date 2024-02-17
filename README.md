@@ -75,7 +75,10 @@
 71. [**二叉树的右视图 - 中等**](https://leetcode.cn/problems/binary-tree-right-side-view/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的右视图.cpp)
 72. [**二叉搜索树的最小绝对差 - 简单**](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉搜索树的最小绝对差.cpp)
 73. [**用最少数量的箭引爆气球 - 中等**](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/用最少数量的箭引爆气球.cpp)
-74. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+74. [**二叉搜索树中第K小的元素 - 中等**](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉搜索树中第K小的元素.cpp)
+75. [**验证二叉搜索树 - 中等**](https://leetcode.cn/problems/validate-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/验证二叉搜索树.cpp)
+76. [**二叉树的锯齿形层序遍历 - 中等**](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的锯齿形层序遍历.cpp)
+77. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
