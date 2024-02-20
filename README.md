@@ -83,7 +83,7 @@
 79. [**搜索插入位置 - 简单**](https://leetcode.cn/problems/search-insert-position/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/搜索插入位置.cpp)
 80. [**随机链表的复制 - 中等**](https://leetcode.cn/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/随机链表的复制.cpp)
 81. [**旋转图像 - 中等**](https://leetcode.cn/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/旋转图像.cpp)
-82. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+82. [**最大子数组和 - 中等**](https://leetcode.cn/problems/maximum-subarray/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最大子数组和.cpp)
 83. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
