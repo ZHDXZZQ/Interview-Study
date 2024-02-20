@@ -81,7 +81,10 @@
 77. [**删除排序链表中的重复元素II - 中等**](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/删除排序链表中的重复元素II.cpp)
 78. [**反转链表II - 中等**](https://leetcode.cn/problems/reverse-linked-list-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/反转链表II.cpp)
 79. [**搜索插入位置 - 简单**](https://leetcode.cn/problems/search-insert-position/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/搜索插入位置.cpp)
-80. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+80. [**随机链表的复制 - 中等**](https://leetcode.cn/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/随机链表的复制.cpp)
+81. [**旋转图像 - 中等**](https://leetcode.cn/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/旋转图像.cpp)
+82. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+83. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
