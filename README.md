@@ -84,7 +84,10 @@
 80. [**随机链表的复制 - 中等**](https://leetcode.cn/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/随机链表的复制.cpp)
 81. [**旋转图像 - 中等**](https://leetcode.cn/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/旋转图像.cpp)
 82. [**最大子数组和 - 中等**](https://leetcode.cn/problems/maximum-subarray/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最大子数组和.cpp)
-83. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+83. [**二叉树的最近公共祖先 - 中等**](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的最近公共祖先.cpp)
+84. [**螺旋矩阵 - 中等**](https://leetcode.cn/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/螺旋矩阵.cpp)
+85. [**生命游戏 - 中等**](https://leetcode.cn/problems/game-of-life/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/生命游戏.cpp)
+86. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
