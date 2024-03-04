@@ -87,7 +87,10 @@
 83. [**二叉树的最近公共祖先 - 中等**](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的最近公共祖先.cpp)
 84. [**螺旋矩阵 - 中等**](https://leetcode.cn/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/螺旋矩阵.cpp)
 85. [**生命游戏 - 中等**](https://leetcode.cn/problems/game-of-life/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/生命游戏.cpp)
-86. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+86. [**全排列 - 中等**](https://leetcode.cn/problems/permutations/description/) -> [**题目详解**](./leetcode/全排列.cpp)
+87. [**完全二叉树的节点个数 - 简单**](https://leetcode.cn/problems/count-complete-tree-nodes/description/) -> [**题目详解**](./leetcode/完全二叉树的节点个数.cpp)
+88. [**环形子数组的最大和 - 中等**](https://leetcode.cn/problems/maximum-sum-circular-subarray/description/) -> [**题目详解**](./leetcode/环形子数组的最大和.cpp)
+89. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
