@@ -90,7 +90,10 @@
 86. [**全排列 - 中等**](https://leetcode.cn/problems/permutations/description/) -> [**题目详解**](./leetcode/全排列.cpp)
 87. [**完全二叉树的节点个数 - 简单**](https://leetcode.cn/problems/count-complete-tree-nodes/description/) -> [**题目详解**](./leetcode/完全二叉树的节点个数.cpp)
 88. [**环形子数组的最大和 - 中等**](https://leetcode.cn/problems/maximum-sum-circular-subarray/description/) -> [**题目详解**](./leetcode/环形子数组的最大和.cpp)
-89. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+89. [**最小路径和 - 中等**](https://leetcode.cn/problems/minimum-path-sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最小路径和.cpp)
+90. [**三角形最小路径和 - 中等**](https://leetcode.cn/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/三角形最小路径和.cpp)
+91. [**单词拆分 - 中等**](https://leetcode.cn/problems/word-break/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/单词拆分.cpp)
+92. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ## 八股目录:
 - [**计算机网络索引**](./八股/计网.md)
