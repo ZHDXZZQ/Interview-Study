@@ -1,7 +1,18 @@
 # 面试必备宝典
-本仓库记录了力扣题目最优解的刷题思路以及源代码，同时记录了各科八股可能提问的问题和解答
+本仓库记录了力扣题目最优解的刷题思路以及源代码
+同时记录了各科八股可能提问的问题和解答
+欢迎各位同学共建面经
+简历和项目及经历需要同学自己总结
 
-## 力扣目录:
+## 八股目录（待创建）:
+- [**计算机网络索引**](./八股/计网.md)
+
+## 面经目录（待创建）：
+- [**面经索引**](./面经/面经目录.md)
+
+## 力扣目录（更新中）:
+> 目前仓库都是用C++语言刷题，有使用其他语言的同学可以建立新的目录及索引（放在此处）和题目索引（建立在子目录内）
+> 如[**java语言题解目录**](./java题解/java题解索引.md)
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
 3. [**移除元素 - 简单**](https://leetcode.cn/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/移除元素.cpp)
@@ -94,6 +105,3 @@
 90. [**三角形最小路径和 - 中等**](https://leetcode.cn/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/三角形最小路径和.cpp)
 91. [**单词拆分 - 中等**](https://leetcode.cn/problems/word-break/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/单词拆分.cpp)
 92. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-
-## 八股目录:
-- [**计算机网络索引**](./八股/计网.md)
