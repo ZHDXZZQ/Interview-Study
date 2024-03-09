@@ -1,9 +1,11 @@
 # <div align='center'> 面试必备宝典 </div>
 ### <div align='center'> **`欢迎合作共建 期待你的Pull Request！`** </div> 
+### <div align='center'> **`期待你的Starred！`** </div> 
 ---
 > - 本仓库记录了力扣题目最优解的刷题思路以及源代码   
 > - 同时记录了各科八股可能提问的问题和解答、面经、项目推荐等 
 > - 食用方法：点击下方链接跳转到你想看到的页面
+> - 更新方法：参照同类型文件中的格式即可，须同时更新md文件和你输入的内容
 ---
 
 ## 本站主推： [**Leet Code C++ 题解**](#力扣目录更新中)
@@ -136,3 +138,8 @@
 96. [**最长回文子串 - 中等**](https://leetcode.cn/problems/longest-palindromic-substring/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最长回文子串.cpp)
 97. [**接雨水 - 困难**](https://leetcode.cn/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/接雨水.cpp)
 98. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+
+---
+关于作者：北京邮电大学计算机专业毕业，目前任职于字节跳动抖音系统架构开发
+站长愿景：致力于帮助更多的小伙伴顺利的复习求职知识，获得心仪的offer
+想要获得更多交流欢迎加作者微信号：Zzq_Accepted
