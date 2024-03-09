@@ -15,7 +15,7 @@
 - [**面经目录**](./面经/面经目录.md)
 
 ### 八股（待更新）：
-> 欢迎大家更新其他可能会考到的八股　　　
+> 欢迎大家更新其他可能会考到的八股　　　 
 **
 |                                 111  |  22|                                          八股                                      |   
 | :-------------------------------------: | :-------------------------------------:   | :-------------------------------------:  |   
@@ -48,9 +48,9 @@
 
 
 ### 力扣目录（更新中）:
-> 如需查找题目，直接Ctrl + F搜索对应题目名称
-> 如需顺序刷题，可以依序点击题目进入刷题并查看题解
-> 刷题可依据：  力扣刷题计划、AcWing、代码随想录
+> 如需查找题目，直接Ctrl + F搜索对应题目名称    
+> 如需顺序刷题，可以依序点击题目进入刷题并查看题解     
+> 刷题可依据：  力扣刷题计划、AcWing、代码随想录    
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
 3. [**移除元素 - 简单**](https://leetcode.cn/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/移除元素.cpp)
