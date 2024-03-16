@@ -148,9 +148,9 @@
 104. [**课程表 - 中等**](https://leetcode.cn/problems/course-schedule/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/课程表.cpp)
 105. [**简化路径 - 中等**](https://leetcode.cn/problems/simplify-path/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/简化路径.cpp)
 106. [**逆波兰表达式求值 - 中等**](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/逆波兰表达式求值.cpp)
-107. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-108. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-109. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+107. [**最长递增子序列 - 中等**](https://leetcode.cn/problems/longest-increasing-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最长递增子序列.cpp)
+108. [**零钱兑换 - 中等**](https://leetcode.cn/problems/coin-change/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/零钱兑换.cpp)
+109. [**二叉搜索树迭代器 - 中等**](https://leetcode.cn/problems/binary-search-tree-iterator/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉搜索树迭代器.cpp)
 110. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
