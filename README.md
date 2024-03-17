@@ -151,10 +151,13 @@
 107. [**最长递增子序列 - 中等**](https://leetcode.cn/problems/longest-increasing-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最长递增子序列.cpp)
 108. [**零钱兑换 - 中等**](https://leetcode.cn/problems/coin-change/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/零钱兑换.cpp)
 109. [**二叉搜索树迭代器 - 中等**](https://leetcode.cn/problems/binary-search-tree-iterator/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉搜索树迭代器.cpp)
-110. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+110. [**基本计算器 - 困难**](https://leetcode.cn/problems/basic-calculator/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/基本计算器.cpp)
+111. [**不同路径II - 中等**](https://leetcode.cn/problems/unique-paths-ii/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/不同路径II.cpp)
+112. [**x的平方根 - 简单**](https://leetcode.cn/problems/sqrtx/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/x的平方根.cpp)
+113. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
-**关于作者**：北京邮电大学计算机专业毕业，目前任职于字节跳动抖音系统架构开发    
-**站长愿景**：致力于帮助更多的小伙伴顺利的复习求职知识，获得心仪的offer    
+**关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
+**站长愿景**：致力于帮助更多的小伙伴全面复习求职知识，获得心仪的offer    
 
 ### <div align='center'> **想要获得更多交流&合作 -> 添加作者微信号：Zzq_Accepted** </div>     
