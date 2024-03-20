@@ -157,7 +157,10 @@
 113. [**填充每个节点的下一个右侧节点指针II - 中等**](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/填充每个节点的下一个右侧节点指针II.cpp)
 114. [**从前序与中序遍历序列构造二叉树 - 中等**](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/从前序与中序遍历序列构造二叉树.cpp)
 115. [**搜索旋转排序数组 - 中等**](https://leetcode.cn/problems/search-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/搜索旋转排序数组.cpp)
-116. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+116. [**从中序与后序遍历序列构造二叉树 - 中等**](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/从中序与后序遍历序列构造二叉树.cpp)
+117. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+118. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+119. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
