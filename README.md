@@ -14,9 +14,9 @@
 ---
 
 ### 其他语言题解（欢迎共建）：
-- [**Java语言题解目录**](./java题解/java题解索引.md)
-- [**Python语言题解目录**](./python题解/python题解索引.md)
-- [**Golang语言题解目录**](./go题解/go题解索引.md)
+- [**Java语言题解目录**](./Java题解/Java题解索引.md)
+- [**Python语言题解目录**](./Python题解/Python题解索引.md)
+- [**Golang语言题解目录**](./Golang题解/Golang题解索引.md)
 ---
 
 ### [**面经目录（待更新）**](./面经/面经目录.md)
