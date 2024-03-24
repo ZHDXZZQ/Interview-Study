@@ -160,7 +160,11 @@
 116. [**从中序与后序遍历序列构造二叉树 - 中等**](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/从中序与后序遍历序列构造二叉树.cpp)
 117. [**在排序数组中查找元素的第一个和最后后一个位置 - 中等**](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/在排序数组中查找元素的第一个和最后后一个位置.cpp)
 118. [**寻找峰值 - 中等**](https://leetcode.cn/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/寻找峰值.cpp)
-119. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+119. [**除法求值 - 中等**](https://leetcode.cn/problems/evaluate-division/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/除法求值.cpp)
+120. [**蛇梯棋 -中等**](https://leetcode.cn/problems/snakes-and-ladders/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/蛇梯棋.cpp)
+121. [**K个一组翻转链表 - 困难**](https://leetcode.cn/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/K个一组翻转链表.cpp)
+122. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+123. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
