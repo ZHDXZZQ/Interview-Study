@@ -162,9 +162,11 @@
 118. [**寻找峰值 - 中等**](https://leetcode.cn/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/寻找峰值.cpp)
 119. [**除法求值 - 中等**](https://leetcode.cn/problems/evaluate-division/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/除法求值.cpp)
 120. [**Pow(x,n) - 中等**](https://leetcode.cn/problems/powx-n/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/Pow(x,n).cpp)
-121. [**蛇梯棋 -中等**](https://leetcode.cn/problems/snakes-and-ladders/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/蛇梯棋.cpp)
-122. [**K个一组翻转链表 - 困难**](https://leetcode.cn/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/K个一组翻转链表.cpp)
-123. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+121. [**K个一组翻转链表 - 困难**](https://leetcode.cn/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/K个一组翻转链表.cpp)
+122. [**最近的请求次数 - 简单**](https://leetcode.cn/problems/number-of-recent-calls/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/最近的请求次数.cpp)
+123. [**阶乘后的零 - 中等**](https://leetcode.cn/problems/factorial-trailing-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/阶乘后的零.cpp)
+124. [**蛇梯棋 -中等**](https://leetcode.cn/problems/snakes-and-ladders/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/蛇梯棋.cpp)
+125. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
