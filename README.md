@@ -168,7 +168,12 @@
 124. [**蛇梯棋 -中等**](https://leetcode.cn/problems/snakes-and-ladders/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/蛇梯棋.cpp)
 125. [**字符串中的第一个唯一字符 - 简单**](https://leetcode.cn/problems/first-unique-character-in-a-string/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/字符串中的第一个唯一字符.cpp)
 126. [**排序链表 - 中等**](https://leetcode.cn/problems/sort-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/排序链表.cpp)
-127. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+127. [**最小基因变化 - 中等**](https://leetcode.cn/problems/minimum-genetic-mutation/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最小基因变化.cpp)
+128. [**丢失的数字 - 简单**](https://leetcode.cn/problems/missing-number/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/丢失的数字.cpp)
+129. [**分发饼干 - 简单**](https://leetcode.cn/problems/assign-cookies/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/分发饼干.cpp)
+130. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+
+
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
