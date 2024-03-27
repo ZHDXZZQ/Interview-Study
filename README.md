@@ -165,7 +165,7 @@
 121. [**K个一组翻转链表 - 困难**](https://leetcode.cn/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/K个一组翻转链表.cpp)
 122. [**最近的请求次数 - 简单**](https://leetcode.cn/problems/number-of-recent-calls/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/最近的请求次数.cpp)
 123. [**阶乘后的零 - 中等**](https://leetcode.cn/problems/factorial-trailing-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/阶乘后的零.cpp)
-124. [**蛇梯棋 -中等**](https://leetcode.cn/problems/snakes-and-ladders/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/蛇梯棋.cpp)
+124. [**蛇梯棋 - 中等**](https://leetcode.cn/problems/snakes-and-ladders/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/蛇梯棋.cpp)
 125. [**字符串中的第一个唯一字符 - 简单**](https://leetcode.cn/problems/first-unique-character-in-a-string/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/字符串中的第一个唯一字符.cpp)
 126. [**排序链表 - 中等**](https://leetcode.cn/problems/sort-list/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/排序链表.cpp)
 127. [**最小基因变化 - 中等**](https://leetcode.cn/problems/minimum-genetic-mutation/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最小基因变化.cpp)
