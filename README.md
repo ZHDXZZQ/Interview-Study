@@ -171,8 +171,9 @@
 127. [**最小基因变化 - 中等**](https://leetcode.cn/problems/minimum-genetic-mutation/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最小基因变化.cpp)
 128. [**丢失的数字 - 简单**](https://leetcode.cn/problems/missing-number/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/丢失的数字.cpp)
 129. [**分发饼干 - 简单**](https://leetcode.cn/problems/assign-cookies/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/分发饼干.cpp)
-130. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-
+130. [**添加与搜索单词-数据结构设计 - 中等**](https://leetcode.cn/problems/design-add-and-search-words-data-structure/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/添加与搜索单词-数据结构设计.cpp)
+131. [**寻找旋转排序数组中的最小值 - 中等**](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/寻找旋转排序数组中的最小值.cpp)
+132. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 
 ---
