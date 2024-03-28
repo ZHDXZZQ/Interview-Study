@@ -173,7 +173,8 @@
 129. [**分发饼干 - 简单**](https://leetcode.cn/problems/assign-cookies/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/分发饼干.cpp)
 130. [**添加与搜索单词-数据结构设计 - 中等**](https://leetcode.cn/problems/design-add-and-search-words-data-structure/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/添加与搜索单词-数据结构设计.cpp)
 131. [**寻找旋转排序数组中的最小值 - 中等**](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/寻找旋转排序数组中的最小值.cpp)
-132. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+132. [**用队列实现栈 - 简单**](https://leetcode.cn/problems/implement-stack-using-queues/?envType=study-plan-v2&envId=bytedance-2023-fall-sprint) -> [**题目详解**](./leetcode/用队列实现栈.cpp)
+133. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 
 ---
