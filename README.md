@@ -174,8 +174,10 @@
 130. [**添加与搜索单词-数据结构设计 - 中等**](https://leetcode.cn/problems/design-add-and-search-words-data-structure/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/添加与搜索单词-数据结构设计.cpp)
 131. [**寻找旋转排序数组中的最小值 - 中等**](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/寻找旋转排序数组中的最小值.cpp)
 132. [**用队列实现栈 - 简单**](https://leetcode.cn/problems/implement-stack-using-queues/?envType=study-plan-v2&envId=bytedance-2023-fall-sprint) -> [**题目详解**](./leetcode/用队列实现栈.cpp)
-133. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-
+133. [**数字范围按位与 - 中等**](https://leetcode.cn/problems/bitwise-and-of-numbers-range/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/数字范围按位与.cpp)
+134. [**数组中的第K个最大元素 - 中等**](https://leetcode.cn/problems/kth-largest-element-in-an-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/数组中的第K个最大元素.cpp)
+135. [**搜索二维矩阵 - 中等**](https://leetcode.cn/problems/search-a-2d-matrix/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/搜索二维矩阵.cpp)
+136. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
