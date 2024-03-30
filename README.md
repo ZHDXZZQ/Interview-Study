@@ -180,7 +180,10 @@
 136. [**交错字符串 - 中等**](https://leetcode.cn/problems/interleaving-string/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/交错字符串.cpp)
 137. [**只出现一次的数字II - 中等**](https://leetcode.cn/problems/single-number-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/只出现一次的数字II.cpp)
 138. [**建立四叉树 - 中等**](https://leetcode.cn/problems/construct-quad-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/建立四叉树.cpp)
-139. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+139. [**买卖股票的最佳时机III - 困难**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/买卖股票的最佳时机III.cpp)
+140. [**二叉树的层序遍历II - 中等**](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/二叉树的层序遍历II.cpp)
+141. [**买卖股票的最佳时机IV - 困难**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/买卖股票的最佳时机IV.cpp)
+142. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
