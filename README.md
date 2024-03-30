@@ -177,7 +177,10 @@
 133. [**数字范围按位与 - 中等**](https://leetcode.cn/problems/bitwise-and-of-numbers-range/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/数字范围按位与.cpp)
 134. [**数组中的第K个最大元素 - 中等**](https://leetcode.cn/problems/kth-largest-element-in-an-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/数组中的第K个最大元素.cpp)
 135. [**搜索二维矩阵 - 中等**](https://leetcode.cn/problems/search-a-2d-matrix/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/搜索二维矩阵.cpp)
-136. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+136. [**交错字符串 - 中等**](https://leetcode.cn/problems/interleaving-string/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/交错字符串.cpp)
+137. [**只出现一次的数字II - 中等**](https://leetcode.cn/problems/single-number-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/只出现一次的数字II.cpp)
+138. [**建立四叉树 - 中等**](https://leetcode.cn/problems/construct-quad-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/建立四叉树.cpp)
+139. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
