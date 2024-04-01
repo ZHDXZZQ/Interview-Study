@@ -22,7 +22,7 @@ void print_odd(int id) {    //传入参数可以自主设定
 void print_even(int id) {
     while (num < 100) {
         locker.lock();
-        if (num < 100 && num % 2 == 1) {
+        if (num < 100 && num % 2 == 1) {    //如果不加判断可能会乱序输出
             std::cout << "Thread " << id << ": " << ++ num << std::endl;
         }
         locker.unlock();
