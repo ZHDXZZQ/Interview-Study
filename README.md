@@ -183,7 +183,10 @@
 139. [**买卖股票的最佳时机III - 困难**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/买卖股票的最佳时机III.cpp)
 140. [**二叉树的层序遍历II - 中等**](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/二叉树的层序遍历II.cpp)
 141. [**买卖股票的最佳时机IV - 困难**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/买卖股票的最佳时机IV.cpp)
-142. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+142. [**查找和最小的K对数字 - 中等**](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/查找和最小的K对数字.cpp)
+143. [**课程表II - 中等**](https://leetcode.cn/problems/course-schedule-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/课程表II.cpp)
+144. [**去除重复字母 - 中等**](https://leetcode.cn/problems/remove-duplicate-letters/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/去除重复字母.cpp)
+145. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
