@@ -1,6 +1,6 @@
 //简易单元测试
 
-#include "self_vector.h"
+#include "my_vector.h"
 
 int main() {
     MyVector<int> myvec;
