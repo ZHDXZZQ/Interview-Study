@@ -187,9 +187,12 @@
 143. [**课程表II - 中等**](https://leetcode.cn/problems/course-schedule-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/课程表II.cpp)
 144. [**去除重复字母 - 中等**](https://leetcode.cn/problems/remove-duplicate-letters/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/去除重复字母.cpp)
 145. [**N皇后II - 困难**](https://leetcode.cn/problems/n-queens-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/N皇后II.cpp)
-146. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-147. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+146. [**最小覆盖子串 - 困难**](https://leetcode.cn/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最小覆盖子串.cpp)
+147. [**单词搜索II - 困难**](https://leetcode.cn/problems/word-search-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/单词搜索II.cpp)
 148. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+149. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+150. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+151. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
