@@ -189,9 +189,9 @@
 145. [**N皇后II - 困难**](https://leetcode.cn/problems/n-queens-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/N皇后II.cpp)
 146. [**最小覆盖子串 - 困难**](https://leetcode.cn/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最小覆盖子串.cpp)
 147. [**单词搜索II - 困难**](https://leetcode.cn/problems/word-search-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/单词搜索II.cpp)
-148. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-149. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-150. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+148. [**直线上最多的点数 - 困难**](https://leetcode.cn/problems/max-points-on-a-line/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/直线上最多的点数.cpp)
+149. [**串联所有单词的子串 - 困难**](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/串联所有单词的子串.cpp)
+150. [**单词接龙 - 困难**](https://leetcode.cn/problems/word-ladder/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/单词接龙.cpp)
 151. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
