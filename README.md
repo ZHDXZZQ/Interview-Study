@@ -192,7 +192,10 @@
 148. [**直线上最多的点数 - 困难**](https://leetcode.cn/problems/max-points-on-a-line/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/直线上最多的点数.cpp)
 149. [**串联所有单词的子串 - 困难**](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/串联所有单词的子串.cpp)
 150. [**单词接龙 - 困难**](https://leetcode.cn/problems/word-ladder/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/单词接龙.cpp)
-151. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+151. [**编辑距离 - 中等**](https://leetcode.cn/problems/edit-distance/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/编辑距离.cpp)
+152. [**IPO - 困难**](https://leetcode.cn/problems/ipo/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/IPO.cpp)
+153. [**最大正方形 - 中等**](https://leetcode.cn/problems/maximal-square/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最大正方形.cpp)
+154. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
