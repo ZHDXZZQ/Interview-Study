@@ -199,7 +199,9 @@
 155. [**寻找两个正序数组的中位数 - 困难**](https://leetcode.cn/problems/median-of-two-sorted-arrays/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/寻找两个正序数组的中位数.cpp)
 156. [**找出字符串中第一个匹配项的下标 - 简单**](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/找出字符串中第一个匹配项的下标.cpp)
 157. [**文本左右对齐 - 困难**](https://leetcode.cn/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/文本左右对齐.cpp)
-158. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+158. [**找到冠军II - 中等**](https://leetcode.cn/problems/find-champion-ii/description/?envType=daily-question&envId=2024-04-13) -> [**题目详解**](./leetcode/找到冠军II.cpp)
+159. [**N皇后 - 困难**](https://leetcode.cn/problems/n-queens/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/N皇后.cpp)
+160. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
