@@ -158,7 +158,7 @@
 114. [**从前序与中序遍历序列构造二叉树 - 中等**](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/从前序与中序遍历序列构造二叉树.cpp)
 115. [**搜索旋转排序数组 - 中等**](https://leetcode.cn/problems/search-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/搜索旋转排序数组.cpp)
 116. [**从中序与后序遍历序列构造二叉树 - 中等**](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/从中序与后序遍历序列构造二叉树.cpp)
-117. [**在排序数组中查找元素的第一个和最后后一个位置 - 中等**](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/在排序数组中查找元素的第一个和最后后一个位置.cpp)
+117. [**在排序数组中查找元素的第一个和最后一个位置 - 中等**](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/在排序数组中查找元素的第一个和最后一个位置.cpp)
 118. [**寻找峰值 - 中等**](https://leetcode.cn/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/寻找峰值.cpp)
 119. [**除法求值 - 中等**](https://leetcode.cn/problems/evaluate-division/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/除法求值.cpp)
 120. [**Pow(x,n) - 中等**](https://leetcode.cn/problems/powx-n/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/Pow(x,n).cpp)
