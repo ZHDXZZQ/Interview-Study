@@ -207,6 +207,9 @@
 163. [**（美团面试原题）跳台阶进阶 - 简单**]() -> [**题目详解**](./leetcode/跳台阶进阶.cpp)
 164. [**省份数量 - 中等**](https://leetcode.cn/problems/number-of-provinces/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/省份数量.cpp)
 165. [**所有可能的路径 - 中等**](https://leetcode.cn/problems/all-paths-from-source-to-target/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/所有可能的路径.cpp)
+166. [**（小红书面试原题）所有可能的组合 - 中等**]() -> [**题目详解**](./leetcode/所有可能的组合.cpp)
+166. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+166. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 166. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
