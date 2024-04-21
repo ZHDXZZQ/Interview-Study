@@ -7,7 +7,7 @@
 #include <math>
 class Solution {
 public:
-    int tiaotaijie (int number) {
-        return pow(2, number - 1);
+    int jumpplus (int n) {  //从0跳到n阶，n大于0
+        return pow(2, n - 1);
     }
 };

@@ -40,7 +40,7 @@ int main() {   //O?vOO
     for (int i = 0; i < n; ++ i) {
         if (s[i] == 'v') {  //如果当前位置是v，则计算当前组合的结果
             res += (record_left[i]) * record_right[i];
-        } else if (s[i] == '?') {   //如果是问号，要把当前位置的减去再计算
+        } else if (s[i] == '?') {   //如果是问号，要把当前位置的问号减去再计算
             res += (record_left[i] - 1) * (record_right[i]);
         }
     }
