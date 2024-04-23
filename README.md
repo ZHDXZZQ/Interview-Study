@@ -202,14 +202,14 @@
 158. [**找到冠军II - 中等**](https://leetcode.cn/problems/find-champion-ii/description/?envType=daily-question&envId=2024-04-13) -> [**题目详解**](./leetcode/找到冠军II.cpp)
 159. [**N皇后 - 困难**](https://leetcode.cn/problems/n-queens/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/N皇后.cpp)
 160. [**移掉K位数字 - 中等**](https://leetcode.cn/problems/remove-k-digits/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/移掉K位数字.cpp)
-161. [**（阿里面试原题）分解成最小质因数 - 中等**]() -> [**题目详解**](./leetcode/分解成最小质因数.cpp)
+161. [**（阿里淘天面试原题）分解成最小质因数 - 中等**]() -> [**题目详解**](./leetcode/分解成最小质因数.cpp)
 162. [**（vast面试原题）找出OvO - 中等**]() -> [**题目详解**](./leetcode/找出OvO.cpp)
 163. [**（美团面试原题）跳台阶进阶 - 简单**]() -> [**题目详解**](./leetcode/跳台阶进阶.cpp)
 164. [**省份数量 - 中等**](https://leetcode.cn/problems/number-of-provinces/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/省份数量.cpp)
 165. [**所有可能的路径 - 中等**](https://leetcode.cn/problems/all-paths-from-source-to-target/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/所有可能的路径.cpp)
 166. [**（小红书面试原题）所有可能的组合 - 中等**]() -> [**题目详解**](./leetcode/所有可能的组合.cpp)
-167. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-168. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+167. [**（美团面试原题）重排链表 - 中等**](https://leetcode.cn/problems/reorder-list/description/) -> [**题目详解**](./leetcode/重排链表.cpp)
+168. [**预测赢家 - 中等**](https://leetcode.cn/problems/predict-the-winner/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/预测赢家.cpp)
 169. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
