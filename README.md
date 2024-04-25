@@ -210,7 +210,10 @@
 166. [**（小红书面试原题）所有可能的组合 - 中等**]() -> [**题目详解**](./leetcode/所有可能的组合.cpp)
 167. [**（美团面试原题）重排链表 - 中等**](https://leetcode.cn/problems/reorder-list/description/) -> [**题目详解**](./leetcode/重排链表.cpp)
 168. [**预测赢家 - 中等**](https://leetcode.cn/problems/predict-the-winner/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/预测赢家.cpp)
-169. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+169. [**丑数II - 中等**](https://leetcode.cn/problems/ugly-number-ii/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/丑数II.cpp)
+170. [**比较版本号 - 中等**](https://leetcode.cn/problems/compare-version-numbers/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/比较版本号.cpp)
+171. [**重复的DNA序列 - 中等**](https://leetcode.cn/problems/repeated-dna-sequences/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/重复的DNA序列.cpp)
+172. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
