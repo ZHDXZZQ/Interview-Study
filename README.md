@@ -213,7 +213,10 @@
 169. [**丑数II - 中等**](https://leetcode.cn/problems/ugly-number-ii/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/丑数II.cpp)
 170. [**比较版本号 - 中等**](https://leetcode.cn/problems/compare-version-numbers/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/比较版本号.cpp)
 171. [**重复的DNA序列 - 中等**](https://leetcode.cn/problems/repeated-dna-sequences/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/重复的DNA序列.cpp)
-172. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+172. [**字典序排数 - 中等**](https://leetcode.cn/problems/lexicographical-numbers/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/字典序排数.cpp)
+173. [**最长回文串 - 简单**](https://leetcode.cn/problems/longest-palindrome/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/最长回文串.cpp)
+174. [**两个数组的交集 - 简单**](https://leetcode.cn/problems/intersection-of-two-arrays/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/两个数组的交集.cpp)
+175. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
