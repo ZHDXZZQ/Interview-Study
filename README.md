@@ -216,7 +216,10 @@
 172. [**字典序排数 - 中等**](https://leetcode.cn/problems/lexicographical-numbers/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/字典序排数.cpp)
 173. [**最长回文串 - 简单**](https://leetcode.cn/problems/longest-palindrome/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/最长回文串.cpp)
 174. [**两个数组的交集 - 简单**](https://leetcode.cn/problems/intersection-of-two-arrays/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/两个数组的交集.cpp)
-175. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+175. [**（面试原题）符合预期花销的最快乐旅行 - 中等**]() -> [**题目详解**](./leetcode/符合预期花销的最快乐旅行.cpp)
+176. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+177. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+178. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
