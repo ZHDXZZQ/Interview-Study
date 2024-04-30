@@ -1,5 +1,6 @@
 // 两个线程交替打印1-100，互斥锁实现
 // 线程常用方法：初始化、睡眠、获取线程id、互斥锁、条件变量、信号量、线程分离等
+// 锁的使用还可以使用lock_guard和unique_lock
 
 #include <iostream>
 #include <thread>
