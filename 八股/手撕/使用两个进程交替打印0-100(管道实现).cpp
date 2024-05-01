@@ -1,6 +1,8 @@
 // 本文利用两个无名管道实现，读会阻塞，类似于信号量，适用于父子进程
 // 后续可以做一下有名管道的实现
 // 有名管道：int mkfifo(const char *pathname, mode_t mode);
+// 编译命令 g++ 使用两个进程交替打印0-100\(共享内存\).cpp -o test
+
 #include <iostream>
 #include <unistd.h>
 

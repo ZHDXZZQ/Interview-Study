@@ -1,6 +1,7 @@
 // 共享内存，适用于父子进程和非父子进程
 // 同理可以使用文件来进行信息交换
 // 编译最后加 -lrt
+// 编译命令 g++ 使用两个进程交替打印0-100\(共享内存\).cpp -o test -lrt
 #include <iostream>
 #include <unistd.h>
 #include <sys/mman.h>

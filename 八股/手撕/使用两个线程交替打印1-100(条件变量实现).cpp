@@ -1,5 +1,6 @@
 // 使用条件变量实现，使用两个线程交替打印1-100
 // 需要和互斥锁搭配使用
+// 编译命令 g++ -pthread 使用两个线程交替打印1-100\(条件变量实现\).cpp -o test
 
 #include <thread>
 #include <condition_variable>
