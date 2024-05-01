@@ -25,7 +25,7 @@
 ---
 
 ### 八股（部分更新中）：
-> 欢迎大家更新其他可能会考到的八股文->[八股全部索引](./八股/八股目录.md)
+> 欢迎大家更新其他可能会考到的八股文
 
 | [**编程语言 C++**](./八股/编程语言C++.md)       | [**编程语言 Java**](./八股/编程语言Java.md) | [**编程语言 Python**](./八股/编程语言Python.md) |  
 | :----: | :---: | :---: |   
@@ -220,9 +220,13 @@
 176. [**计数质数 - 中等**](https://leetcode.cn/problems/count-primes/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/计数质数.cpp)
 177. [**n的第k个因子 - 中等**](https://leetcode.cn/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/n的第k个因子.cpp)
 178. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+179. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+180. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+181. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
+曾收获字节、美团、百度、阿里、腾讯、小红书、vast等各中大小厂offer
 **站长愿景**：致力于帮助更多的小伙伴全面复习求职知识，获得心仪的offer    
 
 ### <div align='center'> **想要获得更多交流&合作 -> 添加作者微信号：Zzq_Accepted** </div>     
