@@ -1,3 +1,8 @@
+/*
+    策略模式：定义了算法家族，分别封装起来
+    让其之间可以相互替换，使得算法的变化不会影响使用算法的客户    
+*/
+
 #include <iostream>
 #include <unordered_map>
 
