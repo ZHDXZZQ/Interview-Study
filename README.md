@@ -218,7 +218,7 @@
 175. [**（面试原题）符合预期花销的最快乐旅行 - 中等**]() -> [**题目详解**](./leetcode/符合预期花销的最快乐旅行.cpp)
 176. [**计数质数 - 中等**](https://leetcode.cn/problems/count-primes/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/计数质数.cpp)
 177. [**n的第k个因子 - 中等**](https://leetcode.cn/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/n的第k个因子.cpp)
-178. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+178. [**设计自助结算系统 - 中等**](https://leetcode.cn/problems/dui-lie-de-zui-da-zhi-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/设计自助结算系统.cpp)
 179. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 180. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 181. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
