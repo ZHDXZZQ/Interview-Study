@@ -206,7 +206,7 @@
 163. [**（美团面试原题）跳台阶进阶 - 简单**]() -> [**题目详解**](./leetcode/跳台阶进阶.cpp)
 164. [**省份数量 - 中等**](https://leetcode.cn/problems/number-of-provinces/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/省份数量.cpp)
 165. [**所有可能的路径 - 中等**](https://leetcode.cn/problems/all-paths-from-source-to-target/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/所有可能的路径.cpp)
-166. [**（小红书面试原题）所有可能的组合 - 中等**]() -> [**题目详解**](./leetcode/所有可能的组合.cpp)
+166. **（小红书面试原题）所有可能的组合 - 中等** -> [**题目详解**](./leetcode/所有可能的组合.cpp)
 167. [**（美团面试原题）重排链表 - 中等**](https://leetcode.cn/problems/reorder-list/description/) -> [**题目详解**](./leetcode/重排链表.cpp)
 168. [**预测赢家 - 中等**](https://leetcode.cn/problems/predict-the-winner/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/预测赢家.cpp)
 169. [**丑数II - 中等**](https://leetcode.cn/problems/ugly-number-ii/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/丑数II.cpp)
@@ -219,8 +219,8 @@
 176. [**计数质数 - 中等**](https://leetcode.cn/problems/count-primes/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/计数质数.cpp)
 177. [**n的第k个因子 - 中等**](https://leetcode.cn/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/n的第k个因子.cpp)
 178. [**设计自助结算系统 - 中等**](https://leetcode.cn/problems/dui-lie-de-zui-da-zhi-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/设计自助结算系统.cpp)
-179. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-180. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+179. [**最长公共子序列 - 困难**](https://leetcode.cn/problems/longest-common-subsequence/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/最长公共子序列.cpp)
+180. [**（腾讯面试原题）对折链表 - 中等**]() -> [**题目详解**](./leetcode/对折链表.cpp)
 181. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
