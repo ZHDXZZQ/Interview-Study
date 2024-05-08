@@ -18,10 +18,10 @@ void quick_sort(std::vector<T>& nums, int l, int r) {
     } 
     auto sentinel = nums[l + r >> 1];   // 选择哨兵
     int i = l - 1;  // 设立当前的i和j为两个边界的外边一个，这么做可以方便第一轮时先执行后面++和--
-    int j = r + 1;
+    int j = r + 1;  // 如果非要取边界，那么底下的++ i和-- j要放到循环内，并且要添加判断变化前的情况
     while (i < j) {
         do {
-            ++ i;       // 先++和后面的先--，同时避免二者指向重复数据而无限循环，
+            ++ i;       // 先++和后面的先--，避免二者指向重复数据而无限循环，
         } while (nums[i] < sentinel);   // i找到左边大于等于哨兵的值
 
         do {
@@ -30,7 +30,7 @@ void quick_sort(std::vector<T>& nums, int l, int r) {
 
         if (i < j) {
             std::swap(nums[i], nums[j]);    // 当i还在j的左边时，二者交换
-            // 为什么不可以在这里++和--
+            // 如果取边界值，就需要在这里进行++和--，需要添加标志记录++和--前的情况，避免提前跳出循环导致边界变化
         }
     }   // 一直循环，直到i达到或超过j
     quick_sort(nums, l, j); // 对两边进行分治，
