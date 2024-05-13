@@ -227,7 +227,10 @@
 184. [**把字符串转换成整数(atoi) - 中等**](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/把字符串转换成整数(atoi).cpp)
 185. [**动态口令 - 简单**](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/动态口令.cpp)
 186. [**有效数字 - 中等**](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/有效数字.cpp)
-187. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+187. [**删除链表的节点 - 简单**](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/删除链表的节点.cpp)
+188. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+189. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+190. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
