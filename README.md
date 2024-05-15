@@ -228,7 +228,7 @@
 185. [**动态口令 - 简单**](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/动态口令.cpp)
 186. [**有效数字 - 中等**](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/有效数字.cpp)
 187. [**删除链表的节点 - 简单**](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/删除链表的节点.cpp)
-188. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+188. [**移动零 - 简单**](https://leetcode.cn/problems/move-zeroes/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/移动零.cpp)
 189. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 190. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
