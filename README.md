@@ -229,8 +229,11 @@
 186. [**有效数字 - 中等**](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/有效数字.cpp)
 187. [**删除链表的节点 - 简单**](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/删除链表的节点.cpp)
 188. [**移动零 - 简单**](https://leetcode.cn/problems/move-zeroes/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/移动零.cpp)
-189. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+189. [**和为K的子数组 - 中等**](https://leetcode.cn/problems/subarray-sum-equals-k/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/和为K的子数组.cpp)
 190. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+191. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+192. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+193. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
