@@ -233,10 +233,14 @@
 190. [**找到字符串中所有字母异位词 - 中等**](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/找到字符串中所有字母异位词.cpp)
 191. [**缺失的第一个正数 - 困难**](https://leetcode.cn/problems/first-missing-positive/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/缺失的第一个正数.cpp)
 192. [**滑动窗口的最大值 - 困难**](https://leetcode.cn/problems/sliding-window-maximum/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/滑动窗口的最大值.cpp)
-193. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+193. [**交替合并字符串 - 简单**](https://leetcode.cn/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/交替合并字符串.cpp)
+194. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+195. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+196. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
-**关于作者**：北京邮电大学计算机专业，目前任职于字节跳动抖音系统架构开发    
+**关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
+- 曾任职于字节跳动抖音推荐架构开发    
 - 曾收获字节、美团、百度、阿里、腾讯、小红书、vast、京东、快手、滴滴等各大中小厂offer     
 - 接考研11408的计算机一对一教学和全程规划，曾辅导多位同学上岸92名校，上岸率超70%     
 
