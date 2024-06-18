@@ -237,6 +237,9 @@
 194. [**使用最小花费爬楼梯 - 简单**](https://leetcode.cn/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/使用最小花费爬楼梯.cpp)
 195. [**搜索推荐系统 - 中等**](https://leetcode.cn/problems/search-suggestions-system/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/搜索推荐系统.cpp)
 196. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+197. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+198. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+199. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
