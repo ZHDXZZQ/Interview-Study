@@ -3,6 +3,7 @@
     1. 一次插入每个单词的每个字符，直到有一个单词被用完
     2. 将没用完的单词剩余的部分补在后面即可
 */
+
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {

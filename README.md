@@ -234,8 +234,8 @@
 191. [**缺失的第一个正数 - 困难**](https://leetcode.cn/problems/first-missing-positive/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/缺失的第一个正数.cpp)
 192. [**滑动窗口的最大值 - 困难**](https://leetcode.cn/problems/sliding-window-maximum/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/滑动窗口的最大值.cpp)
 193. [**交替合并字符串 - 简单**](https://leetcode.cn/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/交替合并字符串.cpp)
-194. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-195. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+194. [**使用最小花费爬楼梯 - 简单**](https://leetcode.cn/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/使用最小花费爬楼梯.cpp)
+195. [**搜索推荐系统 - 中等**](https://leetcode.cn/problems/search-suggestions-system/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/搜索推荐系统.cpp)
 196. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
