@@ -236,8 +236,8 @@
 193. [**交替合并字符串 - 简单**](https://leetcode.cn/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/交替合并字符串.cpp)
 194. [**使用最小花费爬楼梯 - 简单**](https://leetcode.cn/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/使用最小花费爬楼梯.cpp)
 195. [**搜索推荐系统 - 中等**](https://leetcode.cn/problems/search-suggestions-system/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/搜索推荐系统.cpp)
-196. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-197. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+196. [**从字符串中移除星号 - 中等**](https://leetcode.cn/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/从字符串中移除星号.cpp)
+197. [**高精度加法 - 中等**](https://www.acwing.com/problem/content/793/) -> [**题目详解**](./leetcode/高精度加法.cpp)
 198. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 199. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
