@@ -238,8 +238,11 @@
 195. [**搜索推荐系统 - 中等**](https://leetcode.cn/problems/search-suggestions-system/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/搜索推荐系统.cpp)
 196. [**从字符串中移除星号 - 中等**](https://leetcode.cn/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/从字符串中移除星号.cpp)
 197. [**高精度加法 - 中等**](https://www.acwing.com/problem/content/793/) -> [**题目详解**](./leetcode/高精度加法.cpp)
-198. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-199. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+198. [**高精度减法 - 中等**](https://www.acwing.com/problem/content/794/) -> [**题目详解**](./leetcode/高精度减法.cpp)
+199. [**找出两数组的不同 - 简单**](https://leetcode.cn/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/找出两数组的不同.cpp)
+200. [**小行星碰撞 - 中等**](https://leetcode.cn/problems/asteroid-collision/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/小行星碰撞.cpp)
+201. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+202. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
