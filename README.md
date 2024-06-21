@@ -241,8 +241,11 @@
 198. [**高精度减法 - 中等**](https://www.acwing.com/problem/content/794/) -> [**题目详解**](./leetcode/高精度减法.cpp)
 199. [**找出两数组的不同 - 简单**](https://leetcode.cn/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/找出两数组的不同.cpp)
 200. [**小行星碰撞 - 中等**](https://leetcode.cn/problems/asteroid-collision/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/小行星碰撞.cpp)
-201. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-202. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+201. [**高精度乘法 - 中等**](https://www.acwing.com/problem/content/795/) -> [**题目详解**](./leetcode/高精度乘法.cpp)
+202. [**最长连续不重复子序列 - 中等**](https://www.acwing.com/problem/content/801/) -> [**题目详解**](./leetcode/最长连续不重复子序列.cpp)
+203. [**种花问题 - 简单**](https://leetcode.cn/problems/can-place-flowers/description/) -> [**题目详解**](./leetcode/种花问题.cpp)
+204. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+205. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
