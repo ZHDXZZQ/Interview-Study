@@ -237,15 +237,18 @@
 194. [**使用最小花费爬楼梯 - 简单**](https://leetcode.cn/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/使用最小花费爬楼梯.cpp)
 195. [**搜索推荐系统 - 中等**](https://leetcode.cn/problems/search-suggestions-system/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/搜索推荐系统.cpp)
 196. [**从字符串中移除星号 - 中等**](https://leetcode.cn/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/从字符串中移除星号.cpp)
-197. [**高精度加法 - 中等**](https://www.acwing.com/problem/content/793/) -> [**题目详解**](./leetcode/高精度加法.cpp)
+197. [**高精度加法 - 简单**](https://www.acwing.com/problem/content/793/) -> [**题目详解**](./leetcode/高精度加法.cpp)
 198. [**高精度减法 - 中等**](https://www.acwing.com/problem/content/794/) -> [**题目详解**](./leetcode/高精度减法.cpp)
 199. [**找出两数组的不同 - 简单**](https://leetcode.cn/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/找出两数组的不同.cpp)
 200. [**小行星碰撞 - 中等**](https://leetcode.cn/problems/asteroid-collision/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/小行星碰撞.cpp)
 201. [**高精度乘法 - 中等**](https://www.acwing.com/problem/content/795/) -> [**题目详解**](./leetcode/高精度乘法.cpp)
 202. [**最长连续不重复子序列 - 中等**](https://www.acwing.com/problem/content/801/) -> [**题目详解**](./leetcode/最长连续不重复子序列.cpp)
 203. [**种花问题 - 简单**](https://leetcode.cn/problems/can-place-flowers/description/) -> [**题目详解**](./leetcode/种花问题.cpp)
-204. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-205. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+204. [**压缩字符串 - 中等**](https://leetcode.cn/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/压缩字符串.cpp)
+205. [**第N个泰波那契数 - 简单**](https://leetcode.cn/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/第N个泰波那契数.cpp)
+206. [**高精度除法 - 困难**](https://www.acwing.com/problem/content/796/) -> [**题目详解**](./leetcode/高精度除法.cpp)
+207. [**前缀和 - 模板**](https://www.acwing.com/problem/content/797/) -> [**题目详解**](./leetcode/前缀和.cpp)
+208. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
