@@ -248,7 +248,10 @@
 205. [**第N个泰波那契数 - 简单**](https://leetcode.cn/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/第N个泰波那契数.cpp)
 206. [**高精度除法 - 困难**](https://www.acwing.com/problem/content/796/) -> [**题目详解**](./leetcode/高精度除法.cpp)
 207. [**前缀和 - 模板**](https://www.acwing.com/problem/content/797/) -> [**题目详解**](./leetcode/前缀和.cpp)
-208. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+208. [**删除链表的中间节点 - 中等**](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/删除链表的中间节点.cpp)
+209. [**独一无二的出现次数 - 简单**](https://leetcode.cn/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/独一无二的出现次数.cpp)
+210. [**区间合并 - 中等**](https://www.acwing.com/problem/content/805/) -> [**题目详解**](./leetcode/区间合并.cpp)
+211. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
