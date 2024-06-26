@@ -251,7 +251,13 @@
 208. [**删除链表的中间节点 - 中等**](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/删除链表的中间节点.cpp)
 209. [**独一无二的出现次数 - 简单**](https://leetcode.cn/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/独一无二的出现次数.cpp)
 210. [**区间合并 - 中等**](https://www.acwing.com/problem/content/805/) -> [**题目详解**](./leetcode/区间合并.cpp)
-211. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+211. [**组合总和III - 中等**](https://leetcode.cn/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/组合总和III.cpp)
+212. [**多米诺和托米诺平铺 - 中等**](https://leetcode.cn/problems/domino-and-tromino-tiling/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/多米诺和托米诺平铺.cpp)
+213. [**排列数字 - 中等**](https://www.acwing.com/problem/content/844/) -> [**题目详解**](./leetcode/排列数字.cpp)
+214. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+215. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+216. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+217. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
