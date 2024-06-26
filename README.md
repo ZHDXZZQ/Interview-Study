@@ -40,6 +40,10 @@
 ### 力扣目录（更新中）:
 > 如需查找题目，直接Ctrl + F搜索对应题目名称    
 > 如需顺序刷题，可以依序点击题目进入刷题并查看题解   
+> C++文件本地运行的方法：确保该文件中包含main函数     
+> 编译：g++ xxxx.cpp [-pthread] -o yyyy    
+> 其中[]内的为可选项，-o后跟随生成的可执行文件名字     
+> 执行：./yyyy
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
