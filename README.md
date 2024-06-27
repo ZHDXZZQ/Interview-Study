@@ -258,8 +258,8 @@
 211. [**组合总和III - 中等**](https://leetcode.cn/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/组合总和III.cpp)
 212. [**多米诺和托米诺平铺 - 中等**](https://leetcode.cn/problems/domino-and-tromino-tiling/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/多米诺和托米诺平铺.cpp)
 213. [**排列数字 - 中等**](https://www.acwing.com/problem/content/844/) -> [**题目详解**](./leetcode/排列数字.cpp)
-214. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-215. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+214. [**叶子相似的树 - 简单**](https://leetcode.cn/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/叶子相似的树.cpp)
+215. [**Trie字符串统计 - 中等**](https://www.acwing.com/problem/content/837/) -> [**题目详解**](./leetcode/Trie字符串统计.cpp)
 216. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 217. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
