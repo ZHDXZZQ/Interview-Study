@@ -260,8 +260,10 @@
 213. [**排列数字 - 中等**](https://www.acwing.com/problem/content/844/) -> [**题目详解**](./leetcode/排列数字.cpp)
 214. [**叶子相似的树 - 简单**](https://leetcode.cn/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/叶子相似的树.cpp)
 215. [**Trie字符串统计 - 中等**](https://www.acwing.com/problem/content/837/) -> [**题目详解**](./leetcode/Trie字符串统计.cpp)
-216. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-217. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+216. [**拥有最多糖果的孩子 - 简单**](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/拥有最多糖果的孩子.cpp)
+217. [**子矩阵的和 - 中等**](https://www.acwing.com/problem/content/798/) -> [**题目详解**](./leetcode/子矩阵的和.cpp)
+218. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+219. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
