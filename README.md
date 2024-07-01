@@ -262,8 +262,8 @@
 215. [**Trie字符串统计 - 中等**](https://www.acwing.com/problem/content/837/) -> [**题目详解**](./leetcode/Trie字符串统计.cpp)
 216. [**拥有最多糖果的孩子 - 简单**](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/拥有最多糖果的孩子.cpp)
 217. [**子矩阵的和 - 中等**](https://www.acwing.com/problem/content/798/) -> [**题目详解**](./leetcode/子矩阵的和.cpp)
-218. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-219. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+218. [**猜数字大小 - 简单**](https://leetcode.cn/problems/guess-number-higher-or-lower/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/猜数字大小.cpp)
+219. [**二叉搜索树中的搜索 - 简单**](https://leetcode.cn/problems/search-in-a-binary-search-tree/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/二叉搜索树中的搜索.cpp)
 220. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
