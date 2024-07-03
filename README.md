@@ -264,7 +264,13 @@
 217. [**子矩阵的和 - 中等**](https://www.acwing.com/problem/content/798/) -> [**题目详解**](./leetcode/子矩阵的和.cpp)
 218. [**猜数字大小 - 简单**](https://leetcode.cn/problems/guess-number-higher-or-lower/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/猜数字大小.cpp)
 219. [**二叉搜索树中的搜索 - 简单**](https://leetcode.cn/problems/search-in-a-binary-search-tree/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/二叉搜索树中的搜索.cpp)
-220. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+220. [**找到最高海拔 - 简单**](https://leetcode.cn/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/找到最高海拔.cpp)
+221. [**Dota2参议院 - 中等**](https://leetcode.cn/problems/dota2-senate/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/Dota2参议院.cpp)
+222. [**单调栈 - 模板**](https://www.acwing.com/problem/content/832/) -> [**题目详解**](./leetcode/单调栈.cpp)
+223. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+224. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+225. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+226. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
