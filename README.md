@@ -269,8 +269,11 @@
 222. [**单调栈 - 模板**](https://www.acwing.com/problem/content/832/) -> [**题目详解**](./leetcode/单调栈.cpp)
 223. [**钥匙和房间 - 中等**](https://leetcode.cn/problems/keys-and-rooms/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/钥匙和房间.cpp)
 224. [**双链表 - 模板**](https://www.acwing.com/problem/content/829/) -> [**题目详解**](./leetcode/双链表.cpp)
-225. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-226. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+225. [**K和数对的最大数目 - 中等**](https://leetcode.cn/problems/max-number-of-k-sum-pairs/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/K和数对的最大数目.cpp)
+226. [**模拟队列 - 模板**](https://www.acwing.com/problem/content/831/) -> [**题目详解**](./leetcode/模拟队列.cpp)
+227. [**子数组的最大平均数I - 简单**](https://leetcode.cn/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/子数组的最大平均数I.cpp)
+228. [**走迷宫 - 困难**](https://www.acwing.com/problem/content/846/) -> [**题目详解**](./leetcode/走迷宫.cpp)
+229. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
