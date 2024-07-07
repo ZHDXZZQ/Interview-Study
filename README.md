@@ -273,7 +273,10 @@
 226. [**模拟队列 - 模板**](https://www.acwing.com/problem/content/831/) -> [**题目详解**](./leetcode/模拟队列.cpp)
 227. [**子数组的最大平均数I - 简单**](https://leetcode.cn/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/子数组的最大平均数I.cpp)
 228. [**走迷宫 - 困难**](https://www.acwing.com/problem/content/846/) -> [**题目详解**](./leetcode/走迷宫.cpp)
-229. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+229. [**模拟栈 - 模板**](https://www.acwing.com/problem/content/830/) -> [**题目详解**](./leetcode/模拟栈.cpp)
+230. [**定长子串中元音的最大数目 - 中等**](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/定长子串中元音的最大数目.cpp)
+231. [**寻找数组的中心下标 - 简单**](https://leetcode.cn/problems/find-pivot-index/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/寻找数组的中心下标.cpp)
+232. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
