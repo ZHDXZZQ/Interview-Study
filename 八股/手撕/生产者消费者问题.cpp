@@ -8,6 +8,10 @@
 #include <unistd.h>
 #include <thread>
 
+// std::this_thread::yield() 是 C++ 标准库中用于线程管理的一个函数。
+// 它的作用是提示操作系统当前线程愿意放弃自己的 CPU 时间片，让操作系统调度其他线程运行。
+// 这个函数通常用于多线程编程中的某些场景，以提高程序的响应性和性能。
+
 sem_t product;          //使用信号量模拟产品，当然也可以使用普通的int变量和互斥锁实现
 sem_t empty;            //当前缓冲区的空位
 std::mutex locker;      //互斥锁，用于访问临界资源
