@@ -228,7 +228,7 @@ int main() {
 
 以下是如何使用 `std::unique_lock` 的 `wait` 操作的示例：
 
-### 示例代码
+##### 示例代码
 
 ```cpp
 #include <iostream>
@@ -274,7 +274,7 @@ int main() {
 }
 ```
 
-### 详细解释
+##### 详细解释
 
 1. **互斥锁和条件变量**：
    - `std::mutex mtx;`：用于保护共享数据的互斥锁。
@@ -295,7 +295,7 @@ int main() {
    - 调用 `set_ready` 函数，设置条件变量并通知所有等待线程。
    - 等待所有线程完成。
 
-### `wait` 方法的工作机制
+##### `wait` 方法的工作机制
 
 - `cv.wait(lock, predicate);`：
   - `lock` 是 `std::unique_lock` 类型，保护共享数据。
