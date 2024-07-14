@@ -288,7 +288,10 @@
 241. [**爱吃香蕉的珂珂 - 中等**](https://leetcode.cn/problems/koko-eating-bananas/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/爱吃香蕉的珂珂.cpp)
 242. [**确定两个字符出是否接近 - 中等**](https://leetcode.cn/problems/determine-if-two-strings-are-close/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/确定两个字符出是否接近.cpp)
 243. [**数字三角形 - 中等**](https://www.acwing.com/problem/content/900/) -> [**题目详解**](./leetcode/数字三角形.cpp)
-244. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+244. [**试除法判定质数 - 简单**](https://www.acwing.com/problem/content/868/) -> [**题目详解**](./leetcode/试除法判定质数.cpp)
+245. [**无限集中的最小数字 - 简单**](https://leetcode.cn/problems/smallest-number-in-infinite-set/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/无限集中的最小数字.cpp)
+246. [**买卖股票的最佳时机含手续费 - 中等**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/买卖股票的最佳时机含手续费.cpp)
+247. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
