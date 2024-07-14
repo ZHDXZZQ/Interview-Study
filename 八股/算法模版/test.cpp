@@ -4,6 +4,7 @@
 #include "quick_sort.h"
 #include "select_sort.h"
 #include "merge_sort.h"
+#include "heap_sort.h"
 
 const int a[10] = {2, 4, 8, 1, 7, 3, 4, 2, 9, 5};
 // const int a[5] = {2, 4, 8, 1, 7};
@@ -17,7 +18,8 @@ int main() {
     // BubbleSort(nums);
     // QuickSort(nums);
     // SelectSort(nums);
-    MergeSort(nums);
+    // MergeSort(nums);
+    HeapSort(nums);
     for (auto& num : nums) {
         std::cout << num << " , ";
     }
