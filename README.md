@@ -291,7 +291,10 @@
 244. [**试除法判定质数 - 简单**](https://www.acwing.com/problem/content/868/) -> [**题目详解**](./leetcode/试除法判定质数.cpp)
 245. [**无限集中的最小数字 - 简单**](https://leetcode.cn/problems/smallest-number-in-infinite-set/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/无限集中的最小数字.cpp)
 246. [**买卖股票的最佳时机含手续费 - 中等**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/买卖股票的最佳时机含手续费.cpp)
-247. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+247. [**股票价格跨度 - 中等**](https://leetcode.cn/problems/online-stock-span/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/股票价格跨度.cpp)
+248. [**链表最大孪生和 - 中等**](https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/链表最大孪生和.cpp)
+249. [**试除法求约数 - 简单**](https://www.acwing.com/problem/content/871/) -> [**题目详解**](./leetcode/试除法求约数.cpp)
+250. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
