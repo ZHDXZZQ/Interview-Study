@@ -294,7 +294,10 @@
 247. [**股票价格跨度 - 中等**](https://leetcode.cn/problems/online-stock-span/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/股票价格跨度.cpp)
 248. [**链表最大孪生和 - 中等**](https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/链表最大孪生和.cpp)
 249. [**试除法求约数 - 简单**](https://www.acwing.com/problem/content/871/) -> [**题目详解**](./leetcode/试除法求约数.cpp)
-250. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+250. [**无重叠区间 - 中等**](https://leetcode.cn/problems/non-overlapping-intervals/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/无重叠区间.cpp)
+251. [**咒语和药水的成功对数 - 中等**](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/咒语和药水的成功对数.cpp)
+252. [**二进制中1的个数 - 简单**](https://www.acwing.com/problem/content/803/) -> [**题目详解**](./leetcode/二进制中1的个数.cpp)
+253. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
