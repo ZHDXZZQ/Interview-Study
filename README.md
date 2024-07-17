@@ -297,7 +297,10 @@
 250. [**无重叠区间 - 中等**](https://leetcode.cn/problems/non-overlapping-intervals/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/无重叠区间.cpp)
 251. [**咒语和药水的成功对数 - 中等**](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/咒语和药水的成功对数.cpp)
 252. [**二进制中1的个数 - 简单**](https://www.acwing.com/problem/content/803/) -> [**题目详解**](./leetcode/二进制中1的个数.cpp)
-253. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+253. [**或运算的最小翻转次数 - 中等**](https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/或运算的最小翻转次数.cpp)
+254. [**删掉一个元素以后去全为1的最长子数组 - 中等**](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/删掉一个元素以后去全为1的最长子数组.cpp)
+255. [**快速幂 - 模板**](https://www.acwing.com/problem/content/877/) -> [**题目详解**](./leetcode/快速幂.cpp)
+256. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
