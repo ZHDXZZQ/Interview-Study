@@ -79,76 +79,76 @@ int main() {
 ### 代码解释
 
 1. **包含头文件**：
-    ```cpp
-    #include <shared_mutex>
-    ```
+```cpp
+#include <shared_mutex>
+```
 
 2. **共享数据类**：
-    ```cpp
-    class SharedData {
-    public:
-        void write(int value) {
-            std::unique_lock lock(mutex_);
-            data_ = value;
-            std::cout << "Written: " << value << std::endl;
-        }
+```cpp
+class SharedData {
+public:
+    void write(int value) {
+        std::unique_lock lock(mutex_);
+        data_ = value;
+        std::cout << "Written: " << value << std::endl;
+    }
 
-        int read() const {
-            std::shared_lock lock(mutex_);
-            std::cout << "Read: " << data_ << std::endl;
-            return data_;
-        }
+    int read() const {
+        std::shared_lock lock(mutex_);
+        std::cout << "Read: " << data_ << std::endl;
+        return data_;
+    }
 
-    private:
-        mutable std::shared_mutex mutex_;
-        int data_ = 0;
-    };
-    ```
-    - `SharedData` 类包含一个共享数据成员 `data_` 和一个 `std::shared_mutex` 类型的互斥量 `mutex_`。
-    - `write` 方法使用 `std::unique_lock` 对互斥量进行独占锁定，以保证写操作的独占性。
-    - `read` 方法使用 `std::shared_lock` 对互斥量进行共享锁定，以允许多个线程同时读取数据。
+private:
+    mutable std::shared_mutex mutex_;
+    int data_ = 0;
+};
+```
+- `SharedData` 类包含一个共享数据成员 `data_` 和一个 `std::shared_mutex` 类型的互斥量 `mutex_`。
+- `write` 方法使用 `std::unique_lock` 对互斥量进行独占锁定，以保证写操作的独占性。
+- `read` 方法使用 `std::shared_lock` 对互斥量进行共享锁定，以允许多个线程同时读取数据。
 
 3. **读线程函数**：
-    ```cpp
-    void reader(const SharedData& shared_data) {
-        for (int i = 0; i < 5; ++i) {
-            shared_data.read();
-            std::this_thread::sleep_for(std::chrono::milliseconds(50));
-        }
+```cpp
+void reader(const SharedData& shared_data) {
+    for (int i = 0; i < 5; ++i) {
+        shared_data.read();
+        std::this_thread::sleep_for(std::chrono::milliseconds(50));
     }
-    ```
+}
+```
 
 4. **写线程函数**：
-    ```cpp
-    void writer(SharedData& shared_data) {
-        for (int i = 0; i < 5; ++i) {
-            shared_data.write(i);
-            std::this_thread::sleep_for(std::chrono::milliseconds(100));
-        }
+```cpp
+void writer(SharedData& shared_data) {
+    for (int i = 0; i < 5; ++i) {
+        shared_data.write(i);
+        std::this_thread::sleep_for(std::chrono::milliseconds(100));
     }
-    ```
+}
+```
 
 5. **主函数**：
-    ```cpp
-    int main() {
-        SharedData shared_data;
+```cpp
+int main() {
+    SharedData shared_data;
 
-        std::thread writer_thread(writer, std::ref(shared_data));
-        std::vector<std::thread> reader_threads;
-        for (int i = 0; i < 3; ++i) {
-            reader_threads.emplace_back(reader, std::cref(shared_data));
-        }
-
-        writer_thread.join();
-        for (auto& thread : reader_threads) {
-            thread.join();
-        }
-
-        return 0;
+    std::thread writer_thread(writer, std::ref(shared_data));
+    std::vector<std::thread> reader_threads;
+    for (int i = 0; i < 3; ++i) {
+        reader_threads.emplace_back(reader, std::cref(shared_data));
     }
-    ```
-    - 创建并启动一个写线程和多个读线程。
-    - 使用 `join` 方法等待所有线程完成。
+
+    writer_thread.join();
+    for (auto& thread : reader_threads) {
+        thread.join();
+    }
+
+    return 0;
+}
+```
+- 创建并启动一个写线程和多个读线程。
+- 使用 `join` 方法等待所有线程完成。
 
 ### 另一种写法，不使用unique_lock
 ```C++
