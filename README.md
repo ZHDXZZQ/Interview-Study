@@ -300,7 +300,10 @@
 253. [**或运算的最小翻转次数 - 中等**](https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/或运算的最小翻转次数.cpp)
 254. [**删掉一个元素以后去全为1的最长子数组 - 中等**](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/删掉一个元素以后去全为1的最长子数组.cpp)
 255. [**快速幂 - 模板**](https://www.acwing.com/problem/content/877/) -> [**题目详解**](./leetcode/快速幂.cpp)
-256. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+256. [**统计二叉树中好节点的数目 - 中等**](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/统计二叉树中好节点的数目.cpp)
+257. [**最大连续的1的个数III - 中等**](https://leetcode.cn/problems/max-consecutive-ones-iii/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/最大连续的1的个数III.cpp)
+258. [**最大不相交区间数量 - 中等**](https://www.acwing.com/problem/content/910/) -> [**题目详解**](./leetcode/最大不相交区间数量.cpp)
+259. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
