@@ -303,7 +303,16 @@
 256. [**统计二叉树中好节点的数目 - 中等**](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/统计二叉树中好节点的数目.cpp)
 257. [**最大连续的1的个数III - 中等**](https://leetcode.cn/problems/max-consecutive-ones-iii/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/最大连续的1的个数III.cpp)
 258. [**最大不相交区间数量 - 中等**](https://www.acwing.com/problem/content/910/) -> [**题目详解**](./leetcode/最大不相交区间数量.cpp)
-259. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+259. [**区间分组 - 中等**](https://www.acwing.com/problem/content/908/) -> [**题目详解**](./leetcode/区间分组.cpp)
+260. [**二叉树中的最长交错路径 - 中等**](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/二叉树中的最长交错路径.cpp)
+261. [**递增的三元子序列 - 中等**](https://leetcode.cn/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/递增的三元子序列.cpp)
+262. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+263. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+264. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+265. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+266. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+267. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+268. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
