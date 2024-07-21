@@ -8,11 +8,29 @@
 #include <algorithm>
 #include <vector>
 
-// 桶大小可以自定义，也可以直接一个数据一个桶，一个数据一个桶的话需要计算最大值和最小值来确定桶空间，空间需要更大
+// 桶大小可以自定义，也可以直接一个数据一个桶
 
 template <class T>
 void BucketSort(std::vector<T>& nums) {
     int n = nums.size();
-    std::vector<std::vector<T>> buckets(BUCKET_COUNT);
-
+    T& min_val = nums[0], max_val = nums[0];
+    for (auto& x : nums) {
+        min_val = std::min(x, min_val);
+        max_val = std::max(x, max_val);
+    }
+    std::vector<std::vector<T>> buckets(max_val - min_val + 1); //设置桶的大小，可以自定义规则
+    for (auto& x : nums) {
+        buckets[x - min_val].push_back(x);  // 找到对应的桶插入，索引规则可以自定义
+    }
+    for (auto& bucket : buckets) {  // 这里采用一个数据一个桶，无需排序
+        std::sort(bucket.begin(), bucket.end());
+    }
+    int i = 0;
+    for (auto& bucket : buckets) {
+        for (auto& x : bucket) {
+            nums[i] = x;
+            ++ i;
+        }
+    }
+    return;
 }
