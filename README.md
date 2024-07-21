@@ -309,9 +309,9 @@
 262. [**删除二叉搜索树中的节点 - 中等**](https://leetcode.cn/problems/delete-node-in-a-bst/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/删除二叉搜索树中的节点.cpp)
 263. [**表达式求值 - 中等**](https://www.acwing.com/problem/content/3305/) -> [**题目详解**](./leetcode/表达式求值.cpp)
 264. [**雇佣K位工人的总代价 - 中等**](https://leetcode.cn/problems/total-cost-to-hire-k-workers/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/雇佣K位工人的总代价.cpp)
-265. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-266. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-267. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+265. [**最大公约数 - 模板**](https://www.acwing.com/problem/content/874/) -> [**题目详解**](./leetcode/最大公约数.cpp)
+266. [**字符串的最大公因子 - 简单**](https://leetcode.cn/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/字符串的最大公因子.cpp)
+267. [**最大子序列的分数 - 中等**](https://leetcode.cn/problems/maximum-subsequence-score/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/最大子序列的分数.cpp)
 268. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
