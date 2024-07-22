@@ -44,7 +44,7 @@
 > C++文件本地运行的方法：确保该文件中包含main函数     
 > 编译：g++ xxxx.cpp [-pthread] -o yyyy    
 > 其中[]内的为可选项，-o后跟随生成的可执行文件名字     
-> 执行：./yyyy
+> 执行：./yyyy    
 > 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），InterView75，剑指offer，2024春招冲刺百题计划，119经典题变种挑战，程序员面试金典
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
