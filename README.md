@@ -17,6 +17,7 @@
 - [**Java语言题解目录**](./Java题解/Java题解索引.md)
 - [**Python语言题解目录**](./Python题解/Python题解索引.md)
 - [**Golang语言题解目录**](./Golang题解/Golang题解索引.md)
+- [**SQL语言题解目录**](./SQL题解/SQL题解索引.md)
 ---
 
 ### [**面经目录（待更新）**](./面经/面经目录.md)
@@ -44,6 +45,7 @@
 > 编译：g++ xxxx.cpp [-pthread] -o yyyy    
 > 其中[]内的为可选项，-o后跟随生成的可执行文件名字     
 > 执行：./yyyy
+> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），InterView75，剑指offer，2024春招冲刺百题计划，119经典题变种挑战，程序员面试金典
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
@@ -312,7 +314,10 @@
 265. [**最大公约数 - 模板**](https://www.acwing.com/problem/content/874/) -> [**题目详解**](./leetcode/最大公约数.cpp)
 266. [**字符串的最大公因子 - 简单**](https://leetcode.cn/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/字符串的最大公因子.cpp)
 267. [**最大子序列的分数 - 中等**](https://leetcode.cn/problems/maximum-subsequence-score/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/最大子序列的分数.cpp)
-268. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+268. [**比特位计数 - 简单**](https://leetcode.cn/problems/counting-bits/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/比特位计数.cpp)
+269. [**反转链表 - 简单**](https://leetcode.cn/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/反转链表.cpp)
+270. [**堆排序 - 模板**](https://www.acwing.com/problem/content/840/) -> [**题目详解**](./leetcode/堆排序.cpp)
+271. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
