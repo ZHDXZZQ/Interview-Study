@@ -7,12 +7,17 @@ import (    // 导包，对于每个包，都会执行init()函数
 
 func TestFirstTry(t *testing.T) {    // 方法名
         t.Log("TestFirstTry")
-        var a int = 1    // 声明方式1
+        var a int = 1    // 声明方式1，声明必须使用，否则报错
         // b int = 1    // 声明方式2
         // var b = 1    // 声明方式3
+        // 集体声明
+        // var (
+        //     a int = 1
+        //     b     = 1
+        // )
         b := 1            // 声明方式4 自动类型推导
         for i := 0; i < 10; i++ {
-                // fmt.Println(" ", b)    // 标准输出
+                // fmt.Print(" ", b)    // 标准输出
                 t.Log(" ", b)
                 tmp := a
                 a = b
@@ -21,4 +26,4 @@ func TestFirstTry(t *testing.T) {    // 方法名
         fmt.Println()
 }
 
-// a, b = b, a    // 交换两个值，无需中间变量
+// a, b = b, a    // 交换两个值，无需中间变量，即可以在一个赋值语句中进行多个变量的赋值
