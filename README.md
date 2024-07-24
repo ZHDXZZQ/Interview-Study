@@ -320,7 +320,11 @@
 271. [**不同路径 - 中等**](https://leetcode.cn/problems/unique-paths/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/不同路径.cpp)
 272. [**腐烂的橘子 - 中等**](https://leetcode.cn/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/腐烂的橘子.cpp)
 273. [**滑动窗口 - 模板**](https://www.acwing.com/problem/content/156/) -> [**题目详解**](./leetcode/滑动窗口.cpp)
-274. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+274. [**字符串解码 - 中等**](https://leetcode.cn/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/字符串解码.cpp)
+275. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+276. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+277. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+278. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
