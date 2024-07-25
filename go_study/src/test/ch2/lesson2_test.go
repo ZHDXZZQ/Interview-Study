@@ -1,3 +1,5 @@
+//	类型声明，变量，常量
+
 package const_test
 
 import "testing"

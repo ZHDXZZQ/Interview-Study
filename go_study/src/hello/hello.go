@@ -1,3 +1,5 @@
+// 包的测试
+
 package hello
 
 import (

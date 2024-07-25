@@ -1,3 +1,4 @@
+// 声明变量的方式
 package try_test    // 本目录下的包名
 
 import (    // 导包，对于每个包，都会执行init()函数
@@ -5,7 +6,7 @@ import (    // 导包，对于每个包，都会执行init()函数
         "testing"
 )
 
-func TestFirstTry(t *testing.T) {    // 方法名
+func TestFirstTry(t *testing.T) {    // 方法名，开头要大写才能被包外访问
         t.Log("TestFirstTry")
         var a int = 1    // 声明方式1，声明必须使用，否则报错
         // b int = 1    // 声明方式2
