@@ -12,6 +12,11 @@
 10. [**每台机器的进程平均运行时间 - 简单**](https://leetcode.cn/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./每台机器的进程平均运行时间.sql)
 11. [**员工奖金 - 简单**](https://leetcode.cn/problems/employee-bonus/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./员工奖金.sql)
 12. [**学生们参加各科测试的次数 - 简单**](https://leetcode.cn/problems/students-and-examinations/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./学生们参加各科测试的次数.sql)
-13. [****]() -> [**题目详解**](./xxxx.sql)
-   
+13. [**各赛事的用户注册率 - 简单**](https://leetcode.cn/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./各赛事的用户注册率.sql)
+14. [**项目员工I - 简单**](https://leetcode.cn/problems/project-employees-i/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./项目员工I.sql)
+15. [**有趣的电影 - 简单**](https://leetcode.cn/problems/not-boring-movies/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./有趣的电影.sql)
+16. [**查询结果的质量和占比 - 简单**](https://leetcode.cn/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./查询结果的质量和占比.sql)
+17. [**平均售价 - 简单**](https://leetcode.cn/problems/average-selling-price/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./平均售价.sql)
+18. [****]() -> [**题目详解**](./xxxx.sql)
+
 OS：预计半个月更新完50道基础题

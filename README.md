@@ -45,7 +45,8 @@
 > 编译：g++ xxxx.cpp [-pthread] -o yyyy    
 > 其中[]内的为可选项，-o后跟随生成的可执行文件名字     
 > 执行：./yyyy    
-> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer，InterView75，2024春招冲刺百题计划，119经典题变种挑战，程序员面试金典
+> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer81题，InterView75，2024春招冲刺百题计划，119经典题变种挑战，程序员面试金典   
+> 前两个题库已经更新完毕，LeetCode热题100还有16题，HOT100还有33题+1vip题，合计预计8.15刷完，AcWing还有70道预计9月中旬结束，高频SQL50题预计8.10结束，剑指offer81题预计9月中旬结束，然后慢慢写InterView75及后面的三个计划
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
@@ -325,10 +326,10 @@
 276. [**相等行列对 - 中等**](https://leetcode.cn/problems/equal-row-and-column-pairs/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/相等行列对.cpp)
 277. [**快速排序 - 模板**](https://www.acwing.com/problem/content/787/) -> [**题目详解**](./leetcode/快速排序.cpp)
 278. [**归并排序 - 模板**](https://www.acwing.com/problem/content/789/) -> [**题目详解**](./leetcode/归并排序.cpp)
-279. [**01背包问题 - 模板**]() -> [**题目详解**](./leetcode/01背包问题.cpp)
-280. [**完全背包问题 - 模板**]() -> [**题目详解**](./leetcode/完全背包问题.cpp)
-281. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-282. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+279. [**01背包问题 - 模板**](https://www.acwing.com/problem/content/2/) -> [**题目详解**](./leetcode/01背包问题.cpp)
+280. [**完全背包问题 - 模板**](https://www.acwing.com/problem/content/3/) -> [**题目详解**](./leetcode/完全背包问题.cpp)
+281. [**杨辉三角 - 简单**](https://leetcode.cn/problems/pascals-triangle/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/杨辉三角.cpp)
+282. [**多重背包问题 - 模板**](https://www.acwing.com/problem/content/4/) -> [**题目详解**](./leetcode/多重背包问题.cpp)
 283. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
