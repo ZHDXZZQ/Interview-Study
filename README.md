@@ -330,7 +330,13 @@
 280. [**完全背包问题 - 模板**](https://www.acwing.com/problem/content/3/) -> [**题目详解**](./leetcode/完全背包问题.cpp)
 281. [**杨辉三角 - 简单**](https://leetcode.cn/problems/pascals-triangle/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/杨辉三角.cpp)
 282. [**多重背包问题 - 模板**](https://www.acwing.com/problem/content/4/) -> [**题目详解**](./leetcode/多重背包问题.cpp)
-283. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+283. [**相交链表 - 简单**](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/相交链表.cpp)
+284. [**二叉树的中序遍历 - 简单**](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/二叉树的中序遍历.cpp)
+285. [**多重背包问题II - 模板**](https://www.acwing.com/problem/content/description/5/) -> [**题目详解**](./leetcode/多重背包问题II.cpp)
+286. [**分组背包问题 - 模板**](https://www.acwing.com/problem/content/9/) -> [**题目详解**](./leetcode/分组背包问题.cpp)
+287. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+288. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+289. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
