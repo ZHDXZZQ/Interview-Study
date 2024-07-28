@@ -334,9 +334,12 @@
 284. [**二叉树的中序遍历 - 简单**](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/二叉树的中序遍历.cpp)
 285. [**多重背包问题II - 模板**](https://www.acwing.com/problem/content/description/5/) -> [**题目详解**](./leetcode/多重背包问题II.cpp)
 286. [**分组背包问题 - 模板**](https://www.acwing.com/problem/content/9/) -> [**题目详解**](./leetcode/分组背包问题.cpp)
-287. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-288. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-289. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+287. [**搜索二维矩阵II - 中等**](https://leetcode.cn/problems/search-a-2d-matrix-ii/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/搜索二维矩阵II.cpp)
+288. [**二叉树的直径 - 简单**](https://leetcode.cn/problems/diameter-of-binary-tree/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/二叉树的直径.cpp)
+289. [**前K个高频元素 - 中等**](https://leetcode.cn/problems/top-k-frequent-elements/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/前K个高频元素.cpp)
+290. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+291. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+292. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发

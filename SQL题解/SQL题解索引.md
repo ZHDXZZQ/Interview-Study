@@ -27,12 +27,12 @@
 25. [**每位经理的下属员工数量 - 简单**](https://leetcode.cn/problems/the-number-of-employees-which-report-to-each-employee/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./每位经理的下属员工数量.sql)
 26. [**员工的直属部门 - 简单**](https://leetcode.cn/problems/primary-department-for-each-employee/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./员工的直属部门.sql)
 27. [**上级已经离职的公司员工 - 简单**](https://leetcode.cn/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./上级已经离职的公司员工.sql)
-28. [****]() -> [**题目详解**](./xxxx.sql)
-29. [****]() -> [**题目详解**](./xxxx.sql)
-30. [****]() -> [**题目详解**](./xxxx.sql)
-31. [****]() -> [**题目详解**](./xxxx.sql)
-32. [****]() -> [**题目详解**](./xxxx.sql)
-33. [****]() -> [**题目详解**](./xxxx.sql)
+28. [**修复表中的名字 - 简单**](https://leetcode.cn/problems/fix-names-in-a-table/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./修复表中的名字.sql)
+29. [**患某种疾病的患者 - 简单**](https://leetcode.cn/problems/patients-with-a-condition/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./患某种疾病的患者.sql)
+30. [**删除重复的电子邮箱 - 简单**](https://leetcode.cn/problems/delete-duplicate-emails/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./删除重复的电子邮箱.sql)
+31. [**按日期分组销售产品 - 简单**](https://leetcode.cn/problems/group-sold-products-by-the-date/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./按日期分组销售产品.sql)
+32. [**列出指定时间段内所有的下单产品 - 简单**](https://leetcode.cn/problems/list-the-products-ordered-in-a-period/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./列出指定时间段内所有的下单产品.sql)
+33. [**查找所有有效邮箱的用户 - 简单**](https://leetcode.cn/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./查找所有有效邮箱的用户.sql)
 34. [****]() -> [**题目详解**](./xxxx.sql)
 
 
