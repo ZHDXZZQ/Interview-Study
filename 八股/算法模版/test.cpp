@@ -6,6 +6,7 @@
 #include "merge_sort.h"
 #include "heap_sort.h"
 #include "bucket_sort.h"
+#include "insert_sort.h"
 
 const int a[10] = {2, 4, 8, 1, 7, 3, 4, 2, 9, 5};
 // const int a[5] = {2, 4, 8, 1, 7};
@@ -21,7 +22,8 @@ int main() {
     // SelectSort(nums);
     // MergeSort(nums);
     // HeapSort(nums);
-    BucketSort(nums);
+    // BucketSort(nums);
+    InsertSort(nums);
     for (auto& num : nums) {
         std::cout << num << " , ";
     }
