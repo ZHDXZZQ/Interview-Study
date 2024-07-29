@@ -33,7 +33,9 @@
 31. [**按日期分组销售产品 - 简单**](https://leetcode.cn/problems/group-sold-products-by-the-date/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./按日期分组销售产品.sql)
 32. [**列出指定时间段内所有的下单产品 - 简单**](https://leetcode.cn/problems/list-the-products-ordered-in-a-period/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./列出指定时间段内所有的下单产品.sql)
 33. [**查找所有有效邮箱的用户 - 简单**](https://leetcode.cn/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./查找所有有效邮箱的用户.sql)
-34. [****]() -> [**题目详解**](./xxxx.sql)
-
+34. [**至少有5名下属的经历 - 中等**](https://leetcode.cn/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./至少有5名下属的经历.sql)
+35. [**确认率 - 中等**](https://leetcode.cn/problems/confirmation-rate/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./确认率.sql)
+36. [**每月交易I - 中等**](https://leetcode.cn/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./每月交易I.sql)
+37. [****]() -> [**题目详解**](./xxxx.sql)
 
 OS：预计半个月更新完50道基础题
