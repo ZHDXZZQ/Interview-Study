@@ -340,9 +340,12 @@
 290. [**最长上升子序列 - 模版**](https://www.acwing.com/problem/content/897/) -> [**题目详解**](./leetcode/最长上升子序列.cpp)
 291. [**不同的二叉搜索树 - 中等**](https://leetcode.cn/problems/unique-binary-search-trees/description/?envType=problem-list-v2&envId=lo7t7vKa&) -> [**题目详解**](./leetcode/不同的二叉搜索树.cpp)
 292. [**颜色分类 - 中等**](https://leetcode.cn/problems/sort-colors/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/颜色分类.cpp)
-293. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-294. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-295. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+293. [**（作业帮笔试原题）复原IP地址 - 中等**](https://leetcode.cn/problems/restore-ip-addresses/description/) -> [**题目详解**](./leetcode/复原IP地址.cpp)
+294. [**编辑距离II - 模板**](https://www.acwing.com/problem/content/description/901/) -> [**题目详解**](./leetcode/编辑距离II.cpp)
+295. [**石子合并 - 模板**](https://www.acwing.com/problem/content/284/) -> [**题目详解**](./leetcode/石子合并.cpp)
+296. [**回文链表 - 简单**](https://leetcode.cn/problems/palindrome-linked-list/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/回文链表.cpp)
+297. [**环形链表II - 中等**](https://leetcode.cn/problems/linked-list-cycle-ii/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/环形链表II.cpp)
+298. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发

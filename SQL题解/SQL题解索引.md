@@ -36,6 +36,9 @@
 34. [**至少有5名下属的经历 - 中等**](https://leetcode.cn/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./至少有5名下属的经历.sql)
 35. [**确认率 - 中等**](https://leetcode.cn/problems/confirmation-rate/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./确认率.sql)
 36. [**每月交易I - 中等**](https://leetcode.cn/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./每月交易I.sql)
-37. [****]() -> [**题目详解**](./xxxx.sql)
+37. [**即时食物配送II - 中等**](https://leetcode.cn/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./即时食物配送II.sql)
+38. [**游戏玩法分析IV - 中等**](https://leetcode.cn/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./游戏玩法分析IV.sql)
+39. [**买下所有产品的客户 - 中等**](https://leetcode.cn/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./买下所有产品的客户.sql)
+40. [****]() -> [**题目详解**](./xxxx.sql)
 
 OS：预计半个月更新完50道基础题
