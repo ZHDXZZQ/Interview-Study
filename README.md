@@ -345,7 +345,10 @@
 295. [**石子合并 - 模板**](https://www.acwing.com/problem/content/284/) -> [**题目详解**](./leetcode/石子合并.cpp)
 296. [**回文链表 - 简单**](https://leetcode.cn/problems/palindrome-linked-list/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/回文链表.cpp)
 297. [**环形链表II - 中等**](https://leetcode.cn/problems/linked-list-cycle-ii/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/环形链表II.cpp)
-298. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+298. [**子集 - 中等**](https://leetcode.cn/problems/subsets/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/子集.cpp)
+299. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+300. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+301. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
