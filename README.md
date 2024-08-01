@@ -346,8 +346,8 @@
 296. [**回文链表 - 简单**](https://leetcode.cn/problems/palindrome-linked-list/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/回文链表.cpp)
 297. [**环形链表II - 中等**](https://leetcode.cn/problems/linked-list-cycle-ii/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/环形链表II.cpp)
 298. [**子集 - 中等**](https://leetcode.cn/problems/subsets/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/子集.cpp)
-299. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-300. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+299. [**乘积最大子数组 - 中等**](https://leetcode.cn/problems/maximum-product-subarray/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/乘积最大子数组.cpp)
+300. [**整数划分 - 模板**](https://www.acwing.com/problem/content/902/) -> [**题目详解**](./leetcode/整数划分.cpp)
 301. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---

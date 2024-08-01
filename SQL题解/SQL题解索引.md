@@ -1,5 +1,6 @@
 # 以下为本目录内使用sql语言刷题的题解索引  
 
+0. [**sql语言 - 基础**](./sql语言.sql)
 1. [**可回收且低脂的产品 - 简单**](https://leetcode.cn/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./可回收且低脂的产品.sql)
 2. [**寻找用户推荐人 - 简单**](https://leetcode.cn/problems/find-customer-referee/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./寻找用户推荐人.sql)
 3. [**大的国家- 简单**](https://leetcode.cn/problems/big-countries/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./大的国家.sql)
@@ -39,6 +40,9 @@
 37. [**即时食物配送II - 中等**](https://leetcode.cn/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./即时食物配送II.sql)
 38. [**游戏玩法分析IV - 中等**](https://leetcode.cn/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./游戏玩法分析IV.sql)
 39. [**买下所有产品的客户 - 中等**](https://leetcode.cn/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./买下所有产品的客户.sql)
-40. [****]() -> [**题目详解**](./xxxx.sql)
+40. [**连续出现的数字 - 中等**](https://leetcode.cn/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./连续出现的数字.sql)
+41. [**指定日期的产品价格 - 中等**](https://leetcode.cn/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./指定日期的产品价格.sql)
+42. [**最后一个能进入巴士的人 - 中等**](https://leetcode.cn/problems/last-person-to-fit-in-the-bus/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./最后一个能进入巴士的人.sql)
+43. [****]() -> [**题目详解**](./xxxx.sql)
 
 OS：预计半个月更新完50道基础题
