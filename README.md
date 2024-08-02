@@ -348,9 +348,9 @@
 298. [**子集 - 中等**](https://leetcode.cn/problems/subsets/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/子集.cpp)
 299. [**乘积最大子数组 - 中等**](https://leetcode.cn/problems/maximum-product-subarray/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/乘积最大子数组.cpp)
 300. [**整数划分 - 模板**](https://www.acwing.com/problem/content/902/) -> [**题目详解**](./leetcode/整数划分.cpp)
-301. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-302. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-303. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+301. [**寻找重复数 - 中等**](https://leetcode.cn/problems/find-the-duplicate-number/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/寻找重复数.cpp)
+302. [**完全平方数 - 中等**](https://leetcode.cn/problems/perfect-squares/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/完全平方数.cpp)
+303. [**第k个数 - 模板**](https://www.acwing.com/problem/content/788/) -> [**题目详解**](./leetcode/第k个数.cpp)
 304. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
