@@ -43,6 +43,9 @@
 40. [**连续出现的数字 - 中等**](https://leetcode.cn/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./连续出现的数字.sql)
 41. [**指定日期的产品价格 - 中等**](https://leetcode.cn/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./指定日期的产品价格.sql)
 42. [**最后一个能进入巴士的人 - 中等**](https://leetcode.cn/problems/last-person-to-fit-in-the-bus/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./最后一个能进入巴士的人.sql)
-43. [****]() -> [**题目详解**](./xxxx.sql)
+43. [**换座位 - 中等**](https://leetcode.cn/problems/exchange-seats/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./换座位.sql)
+44. [**第二高的薪水 - 中等**](https://leetcode.cn/problems/second-highest-salary/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./第二高的薪水.sql)
+45. [**按分类统计薪水 - 中等**](https://leetcode.cn/problems/count-salary-categories/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./按分类统计薪水.sql)
+46. [****]() -> [**题目详解**](./xxxx.sql)
 
 OS：预计半个月更新完50道基础题
