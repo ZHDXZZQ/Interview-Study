@@ -46,6 +46,10 @@
 43. [**换座位 - 中等**](https://leetcode.cn/problems/exchange-seats/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./换座位.sql)
 44. [**第二高的薪水 - 中等**](https://leetcode.cn/problems/second-highest-salary/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./第二高的薪水.sql)
 45. [**按分类统计薪水 - 中等**](https://leetcode.cn/problems/count-salary-categories/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./按分类统计薪水.sql)
-46. [****]() -> [**题目详解**](./xxxx.sql)
+46. [**好友申请II：谁有最多的好友 - 中等**](https://leetcode.cn/problems/friend-requests-ii-who-has-the-most-friends/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./好友申请II：谁有最多的好友.sql)
+47. [**部门工资前三高的所有员工 - 困难**](https://leetcode.cn/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./部门工资前三高的所有员工.sql)
+48. [****]() -> [**题目详解**](./xxxx.sql)
+49. [****]() -> [**题目详解**](./xxxx.sql)
+50. [****]() -> [**题目详解**](./xxxx.sql)
 
 OS：预计半个月更新完50道基础题
