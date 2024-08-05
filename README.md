@@ -352,8 +352,8 @@
 302. [**完全平方数 - 中等**](https://leetcode.cn/problems/perfect-squares/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/完全平方数.cpp)
 303. [**第k个数 - 模板**](https://www.acwing.com/problem/content/788/) -> [**题目详解**](./leetcode/第k个数.cpp)
 304. [**下一个排列 - 中等**](https://leetcode.cn/problems/next-permutation/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/下一个排列.cpp)
-305. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-306. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+305. [**分割等和子集 - 中等**](https://leetcode.cn/problems/partition-equal-subset-sum/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/分割等和子集.cpp)
+306. [**约数个数 - 模板**](https://www.acwing.com/problem/content/872/) -> [**题目详解**](./leetcode/约数个数.cpp)
 307. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
