@@ -45,8 +45,8 @@
 > 编译：g++ xxxx.cpp [-pthread] -o yyyy    
 > 其中[]内的为可选项，-o后跟随生成的可执行文件名字     
 > 执行：./yyyy    
-> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer81题，InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划    
-> 前两个题库已经更新完毕，LeetCode热题100还有16题，HOT100还有33题+1vip题，合计预计8.11刷完，AcWing还有70道预计9月初结束，高频SQL50题预计8.11结束，剑指offer81题预计9月中旬结束，然后慢慢写InterView75及后面的三个计划
+> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer81题，InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划，其他手机客户端的题单    
+> 前3个题库已经更新完毕，HOT100还有16题+1vip题，合计预计8.20刷完，AcWing还有56道预计9月初结束，高频SQL50题已结束，正在每日更新sql题，剑指offer81题预计10月初结束，然后慢慢写InterView75及后面的计划及题单
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
@@ -354,7 +354,13 @@
 304. [**下一个排列 - 中等**](https://leetcode.cn/problems/next-permutation/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/下一个排列.cpp)
 305. [**分割等和子集 - 中等**](https://leetcode.cn/problems/partition-equal-subset-sum/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/分割等和子集.cpp)
 306. [**约数个数 - 模板**](https://www.acwing.com/problem/content/872/) -> [**题目详解**](./leetcode/约数个数.cpp)
-307. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+307. [**约数之和 - 模板**](https://www.acwing.com/problem/content/873/) -> [**题目详解**](./leetcode/约数之和.cpp)
+308. [**子序列判断 - 模板**](https://www.acwing.com/problem/content/2818/) -> [**题目详解**](./leetcode/子序列判断.cpp)
+309. [**数组元素的目标和 - 模板**](https://www.acwing.com/problem/content/802/) -> [**题目详解**](./leetcode/数组元素的目标和.cpp)
+310. [**最长有效括号 - 困难**](https://leetcode.cn/problems/longest-valid-parentheses/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/最长有效括号.cpp)
+311. [**柱状图中的最大矩形 - 困难**](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/柱状图中的最大矩形.cpp)
+312. [**汉明距离 - 简单**](https://leetcode.cn/problems/hamming-distance/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/汉明距离.cpp)
+313. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发

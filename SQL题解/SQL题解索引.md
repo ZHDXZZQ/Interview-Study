@@ -48,8 +48,8 @@
 45. [**按分类统计薪水 - 中等**](https://leetcode.cn/problems/count-salary-categories/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./按分类统计薪水.sql)
 46. [**好友申请II：谁有最多的好友 - 中等**](https://leetcode.cn/problems/friend-requests-ii-who-has-the-most-friends/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./好友申请II：谁有最多的好友.sql)
 47. [**部门工资前三高的所有员工 - 困难**](https://leetcode.cn/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./部门工资前三高的所有员工.sql)
-48. [****]() -> [**题目详解**](./xxxx.sql)
-49. [****]() -> [**题目详解**](./xxxx.sql)
-50. [****]() -> [**题目详解**](./xxxx.sql)
-
-OS：预计半个月更新完50道基础题
+48. [**2016年的投资 - 中等**](https://leetcode.cn/problems/investments-in-2016/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./2016年的投资.sql)
+49. [**电影评分 - 中等**](https://leetcode.cn/problems/movie-rating/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./电影评分.sql)
+50. [**餐馆营业额变化增长 - 困难**](https://leetcode.cn/problems/restaurant-growth/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./餐馆营业额变化增长.sql)
+51. [**组合两个表 - 简单**](https://leetcode.cn/problems/combine-two-tables/description/) -> [**题目详解**](./组合两个表.sql)
+52. [****]() -> [**题目详解**](./xxxx.sql)
