@@ -360,7 +360,13 @@
 310. [**最长有效括号 - 困难**](https://leetcode.cn/problems/longest-valid-parentheses/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/最长有效括号.cpp)
 311. [**柱状图中的最大矩形 - 困难**](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/柱状图中的最大矩形.cpp)
 312. [**汉明距离 - 简单**](https://leetcode.cn/problems/hamming-distance/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/汉明距离.cpp)
-313. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+313. [**合并二叉树 - 简单**](https://leetcode.cn/problems/merge-two-binary-trees/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/合并二叉树.cpp)
+314. [**找到所有数组中消失的数字 - 简单**](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/找到所有数组中消失的数字.cpp)
+315. [**分解质因数 - 模板**](https://www.acwing.com/problem/content/869/) -> [**题目详解**](./leetcode/分解质因数.cpp)
+316. [**求组合数I - 模板**](https://www.acwing.com/problem/content/887/) -> [**题目详解**](./leetcode/求组合数I.cpp)
+317. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+318. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+319. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
