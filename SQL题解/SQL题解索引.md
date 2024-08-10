@@ -53,4 +53,5 @@
 50. [**餐馆营业额变化增长 - 困难**](https://leetcode.cn/problems/restaurant-growth/description/?envType=study-plan-v2&envId=sql-free-50) -> [**题目详解**](./餐馆营业额变化增长.sql)
 51. [**组合两个表 - 简单**](https://leetcode.cn/problems/combine-two-tables/description/) -> [**题目详解**](./组合两个表.sql)
 52. [**查找重复的电子邮箱 - 简单**](https://leetcode.cn/problems/duplicate-emails/description/) -> [**题目详解**](./查找重复的电子邮箱.sql)
-53. [****]() -> [**题目详解**](./xxxx.sql)
+53. [**部门工资最高的员工 - 中等**](https://leetcode.cn/problems/department-highest-salary/description/) -> [**题目详解**](./部门工资最高的员工.sql)
+54. [****]() -> [**题目详解**](./xxxx.sql)

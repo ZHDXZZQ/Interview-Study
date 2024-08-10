@@ -364,9 +364,12 @@
 314. [**找到所有数组中消失的数字 - 简单**](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/找到所有数组中消失的数字.cpp)
 315. [**分解质因数 - 模板**](https://www.acwing.com/problem/content/869/) -> [**题目详解**](./leetcode/分解质因数.cpp)
 316. [**求组合数I - 模板**](https://www.acwing.com/problem/content/887/) -> [**题目详解**](./leetcode/求组合数I.cpp)
-317. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-318. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-319. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+317. [**买卖股票的最佳时机含冷冻期 - 中等**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/买卖股票的最佳时机含冷冻期.cpp)
+318. [**把二叉搜索树转换为累加树 - 中等**](https://leetcode.cn/problems/convert-bst-to-greater-tree/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/把二叉搜索树转换为累加树.cpp)
+319. [**打家劫舍III - 中等**](https://leetcode.cn/problems/house-robber-iii/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/打家劫舍III.cpp)
+320. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+321. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+322. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
