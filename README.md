@@ -367,8 +367,8 @@
 317. [**买卖股票的最佳时机含冷冻期 - 中等**](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/买卖股票的最佳时机含冷冻期.cpp)
 318. [**把二叉搜索树转换为累加树 - 中等**](https://leetcode.cn/problems/convert-bst-to-greater-tree/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/把二叉搜索树转换为累加树.cpp)
 319. [**打家劫舍III - 中等**](https://leetcode.cn/problems/house-robber-iii/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/打家劫舍III.cpp)
-320. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-321. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+320. [**差分 - 模板**](https://www.acwing.com/problem/content/799/) -> [**题目详解**](./leetcode/差分.cpp)
+321. [**回文子串 - 中等**](https://leetcode.cn/problems/palindromic-substrings/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/回文子串.cpp)
 322. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
