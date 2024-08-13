@@ -20,24 +20,28 @@ import (
 )
 
 func service() string {
+	fmt.Println("sleep 50 ms")
 	time.Sleep(time.Millisecond * 50)
+	fmt.Println("awake 50 ms")
 	return "done"	// 4
 }
 
 func otherTask() {
 	fmt.Println("working on something else")	// 1
+	fmt.Println("sleep 100 ms")
 	time.Sleep(time.Millisecond * 100)
+	fmt.Println("awake 100 ms")
 	fmt.Println("Task is Done")	// 3
 }
 
-func TestService(t *testing.T) {
-	fmt.Println(service())
-	otherTask()
-}
+// func TestService(t *testing.T) {
+// 	fmt.Println(service())
+// 	otherTask()
+// }
 
 func AsyncService() chan string {
-	retch := make(chan string)
-	// retch := make(chan string, 1)	// buffer channel，收到指定数量的消息后可以立即结束协程，不会阻塞
+	// retch := make(chan string)
+	retch := make(chan string, 1)	// buffer channel，收到指定数量的消息后可以立即结束协程，不会阻塞
 	go func() {
 		ret := service()
 		fmt.Println("returned result")	// 2
@@ -51,6 +55,7 @@ func TestAsyncService(t *testing.T) {
 	retch := AsyncService()
 	otherTask()
 	fmt.Println(<-retch)	// 从channel取数据
+	fmt.Println("sleep 1 s")
 	time.Sleep(time.Second * 1)
-	
+	fmt.Println("awake 1 ms")
 }
