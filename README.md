@@ -369,7 +369,10 @@
 319. [**打家劫舍III - 中等**](https://leetcode.cn/problems/house-robber-iii/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/打家劫舍III.cpp)
 320. [**差分 - 模板**](https://www.acwing.com/problem/content/799/) -> [**题目详解**](./leetcode/差分.cpp)
 321. [**回文子串 - 中等**](https://leetcode.cn/problems/palindromic-substrings/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/回文子串.cpp)
-322. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+322. [**目标和 - 中等**](https://leetcode.cn/problems/target-sum/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/目标和.cpp)
+323. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+324. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+325. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
