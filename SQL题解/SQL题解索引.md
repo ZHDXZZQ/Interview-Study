@@ -55,4 +55,5 @@
 52. [**查找重复的电子邮箱 - 简单**](https://leetcode.cn/problems/duplicate-emails/description/) -> [**题目详解**](./查找重复的电子邮箱.sql)
 53. [**部门工资最高的员工 - 中等**](https://leetcode.cn/problems/department-highest-salary/description/) -> [**题目详解**](./部门工资最高的员工.sql)
 54. [**销售员 - 简单**](https://leetcode.cn/problems/sales-person/description/) -> [**题目详解**](./销售员.sql)
-55. [****]() -> [**题目详解**](./xxxx.sql)
+55. [**2020年最后一次登录 - 简单**](https://leetcode.cn/problems/the-latest-login-in-2020/description/) -> [**题目详解**](./2020年最后一次登录.sql)
+56. [****]() -> [**题目详解**](./xxxx.sql)

@@ -370,8 +370,8 @@
 320. [**差分 - 模板**](https://www.acwing.com/problem/content/799/) -> [**题目详解**](./leetcode/差分.cpp)
 321. [**回文子串 - 中等**](https://leetcode.cn/problems/palindromic-substrings/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/回文子串.cpp)
 322. [**目标和 - 中等**](https://leetcode.cn/problems/target-sum/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/目标和.cpp)
-323. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-324. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+323. [**最短无序连续子数组 - 中等**](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/最短无序连续子数组.cpp)
+324. [**Floyd求最短路 - 模板**](https://www.acwing.com/problem/content/856/) -> [**题目详解**](./leetcode/Floyd求最短路.cpp)
 325. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
