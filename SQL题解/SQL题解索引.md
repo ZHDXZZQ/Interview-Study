@@ -56,4 +56,5 @@
 53. [**部门工资最高的员工 - 中等**](https://leetcode.cn/problems/department-highest-salary/description/) -> [**题目详解**](./部门工资最高的员工.sql)
 54. [**销售员 - 简单**](https://leetcode.cn/problems/sales-person/description/) -> [**题目详解**](./销售员.sql)
 55. [**2020年最后一次登录 - 简单**](https://leetcode.cn/problems/the-latest-login-in-2020/description/) -> [**题目详解**](./2020年最后一次登录.sql)
-56. [****]() -> [**题目详解**](./xxxx.sql)
+56. [**超过经理收入的员工 - 简单**](https://leetcode.cn/problems/employees-earning-more-than-their-managers/description/) -> [**题目详解**](./超过经理收入的员工.sql)
+57. [****]() -> [**题目详解**](./xxxx.sql)

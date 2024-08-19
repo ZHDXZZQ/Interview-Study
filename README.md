@@ -377,14 +377,14 @@
 323. [**最短无序连续子数组 - 中等**](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/最短无序连续子数组.cpp)
 324. [**Floyd求最短路 - 模板**](https://www.acwing.com/problem/content/856/) -> [**题目详解**](./leetcode/Floyd求最短路.cpp)
 325. [**有向图的拓扑序列 - 模板**](https://www.acwing.com/problem/content/850/) -> [**题目详解**](./leetcode/有向图的拓扑序列.cpp)
-326. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-327. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+326. [**Dijkstra求最短路I - 模板**](https://www.acwing.com/problem/content/851/) -> [**题目详解**](./leetcode/Dijkstra求最短路I.cpp)
+327. [**根据身高重建队列 - 中等**](https://leetcode.cn/problems/queue-reconstruction-by-height/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/根据身高重建队列.cpp)
 328. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
 - 曾任职于字节跳动抖音推荐架构开发    
-- 曾收获字节、美团、百度、阿里、腾讯、小红书、vast、京东、快手、滴滴等各大中小厂offer     
+- 曾收获字节、美团、百度、阿里、腾讯、小红书、vast、京东、快手、滴滴、Minimax等各大中小厂offer     
 - 接考研11408的计算机一对一教学和全程规划，曾辅导多位同学上岸92名校，上岸率超70%     
 
 **站长愿景**：致力于帮助更多的小伙伴全面复习求职知识，获得心仪的offer    
