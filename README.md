@@ -379,7 +379,13 @@
 325. [**有向图的拓扑序列 - 模板**](https://www.acwing.com/problem/content/850/) -> [**题目详解**](./leetcode/有向图的拓扑序列.cpp)
 326. [**Dijkstra求最短路I - 模板**](https://www.acwing.com/problem/content/851/) -> [**题目详解**](./leetcode/Dijkstra求最短路I.cpp)
 327. [**根据身高重建队列 - 中等**](https://leetcode.cn/problems/queue-reconstruction-by-height/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/根据身高重建队列.cpp)
-328. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+328. [**（字节面试原题）最少操作次数得到目标值 - 中等**]() -> [**题目详解**](./leetcode/最少操作次数得到目标值.cpp)
+329. [**Dijkstra求最短路II - 模板**](https://www.acwing.com/problem/content/852/) -> [**题目详解**](./leetcode/Dijkstra求最短路II.cpp)
+330. [**任务调度器 - 中等**](https://leetcode.cn/problems/task-scheduler/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/任务调度器.cpp)
+331. [**n-皇后问题 - 模板**](https://www.acwing.com/problem/content/845/) -> [**题目详解**](./leetcode/n-皇后问题.cpp)
+332. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+333. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+334. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
