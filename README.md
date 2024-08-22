@@ -51,7 +51,7 @@
 > 执行：./yyyy    
 > 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer81题；    
 > InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划，其他手机客户端的题单    
-> 前3个题库已经更新完毕，HOT100还有5题+1vip题，合计预计8月底刷完，AcWing还有48道预计9月中旬结束，高频SQL50题已结束，正在每日更新sql题，剑指offer81题预计9月底结束，然后慢慢写InterView75及后面的计划及题单
+> 前3个题库已经更新完毕，HOT100还有4题+1vip题，合计预计8月底刷完，AcWing还有47道预计9月中旬结束，高频SQL50题已结束，正在每日更新sql题，剑指offer81题预计9月底结束，然后慢慢写InterView75及后面的计划及题单
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
@@ -384,8 +384,8 @@
 329. [**Dijkstra求最短路II - 模板**](https://www.acwing.com/problem/content/852/) -> [**题目详解**](./leetcode/Dijkstra求最短路II.cpp)
 330. [**任务调度器 - 中等**](https://leetcode.cn/problems/task-scheduler/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/任务调度器.cpp)
 331. [**n-皇后问题 - 模板**](https://www.acwing.com/problem/content/845/) -> [**题目详解**](./leetcode/n-皇后问题.cpp)
-332. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-333. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+332. [**有边数限制的最短路（Bellman_ford） - 模板**](https://www.acwing.com/problem/content/855/) -> [**题目详解**](./leetcode/有边数限制的最短路（Bellman_ford）.cpp)
+333. [**戳气球 - 困难**](https://leetcode.cn/problems/burst-balloons/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/戳气球.cpp)
 334. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---

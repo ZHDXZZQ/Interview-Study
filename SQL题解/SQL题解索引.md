@@ -58,6 +58,6 @@
 55. [**2020年最后一次登录 - 简单**](https://leetcode.cn/problems/the-latest-login-in-2020/description/) -> [**题目详解**](./2020年最后一次登录.sql)
 56. [**超过经理收入的员工 - 简单**](https://leetcode.cn/problems/employees-earning-more-than-their-managers/description/) -> [**题目详解**](./超过经理收入的员工.sql)
 57. [**第N高的薪水 - 中等**](https://leetcode.cn/problems/nth-highest-salary/description/) -> [**题目详解**](./第N高的薪水.sql)
-58. [****]() -> [**题目详解**](./xxxx.sql)
+58. [**分数排名 - 中等**](https://leetcode.cn/problems/rank-scores/description/) -> [**题目详解**](./分数排名.sql)
 59. [****]() -> [**题目详解**](./xxxx.sql)
 60. [****]() -> [**题目详解**](./xxxx.sql)
