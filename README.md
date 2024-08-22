@@ -49,8 +49,9 @@
 > 编译：g++ xxxx.cpp [-pthread] -o yyyy    
 > 其中[]内的为可选项，-o后跟随生成的可执行文件名字     
 > 执行：./yyyy    
-> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer81题，InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划，其他手机客户端的题单    
-> 前3个题库已经更新完毕，HOT100还有16题+1vip题，合计预计8.20刷完，AcWing还有56道预计9月初结束，高频SQL50题已结束，正在每日更新sql题，剑指offer81题预计10月初结束，然后慢慢写InterView75及后面的计划及题单
+> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer81题；    
+> InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划，其他手机客户端的题单    
+> 前3个题库已经更新完毕，HOT100还有5题+1vip题，合计预计8月底刷完，AcWing还有48道预计9月中旬结束，高频SQL50题已结束，正在每日更新sql题，剑指offer81题预计9月底结束，然后慢慢写InterView75及后面的计划及题单
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
