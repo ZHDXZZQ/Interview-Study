@@ -386,7 +386,13 @@
 331. [**n-皇后问题 - 模板**](https://www.acwing.com/problem/content/845/) -> [**题目详解**](./leetcode/n-皇后问题.cpp)
 332. [**有边数限制的最短路（Bellman_ford） - 模板**](https://www.acwing.com/problem/content/855/) -> [**题目详解**](./leetcode/有边数限制的最短路（Bellman_ford）.cpp)
 333. [**戳气球 - 困难**](https://leetcode.cn/problems/burst-balloons/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/戳气球.cpp)
-334. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+334. [**二叉树的序列化与反序列化 - 困难**](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/二叉树的序列化与反序列化.cpp)
+335. [**spfa求最短路 - 模板**](https://www.acwing.com/problem/content/853/) -> [**题目详解**](./leetcode/spfa求最短路.cpp)
+336. [**spfa判断负环 - 模板**](https://www.acwing.com/problem/content/854/) -> [**题目详解**](./leetcode/spfa判断负环.cpp)
+337. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+338. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+339. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+340. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
