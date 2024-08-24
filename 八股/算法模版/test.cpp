@@ -10,6 +10,7 @@
 #include "binary_insert_sort.h"
 #include "counting_sort.h"
 #include "base_sort.h"
+#include "shell_sort.h"
 
 const int a[] = {2, 4, 8, 1, 7, 3, 4, 2, 9, 5, 10, 14, 25, 930, 63, 184, 505, 278, 589, 109};
 // const int a[5] = {2, 4, 8, 1, 7};
@@ -29,7 +30,8 @@ int main() {
     // InsertSort(nums);
     // BinaryInsertSort(nums);
     // CountingSort(nums);
-    BaseSort(nums);
+    // BaseSort(nums);
+    ShellSort(nums);
     for (auto& num : nums) {
         std::cout << num << " , ";
     }

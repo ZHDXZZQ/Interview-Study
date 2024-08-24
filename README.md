@@ -389,8 +389,8 @@
 334. [**二叉树的序列化与反序列化 - 困难**](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/二叉树的序列化与反序列化.cpp)
 335. [**spfa求最短路 - 模板**](https://www.acwing.com/problem/content/853/) -> [**题目详解**](./leetcode/spfa求最短路.cpp)
 336. [**spfa判断负环 - 模板**](https://www.acwing.com/problem/content/854/) -> [**题目详解**](./leetcode/spfa判断负环.cpp)
-337. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-338. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+337. [**Kruskal算法求最小生成树 - 模板**](https://www.acwing.com/problem/content/861/) -> [**题目详解**](./leetcode/Kruskal算法求最小生成树.cpp)
+338. [**Prim算法求最小生成树 - 模板**](https://www.acwing.com/problem/content/860/) -> [**题目详解**](./leetcode/Prim算法求最小生成树.cpp)
 339. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 340. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 

@@ -60,7 +60,7 @@
 57. [**第N高的薪水 - 中等**](https://leetcode.cn/problems/nth-highest-salary/description/) -> [**题目详解**](./第N高的薪水.sql)
 58. [**分数排名 - 中等**](https://leetcode.cn/problems/rank-scores/description/) -> [**题目详解**](./分数排名.sql)
 59. [**重新格式化部门表 - 简单**](https://leetcode.cn/problems/reformat-department-table/description/) -> [**题目详解**](./重新格式化部门表.sql)
-60. [****]() -> [**题目详解**](./xxxx.sql)
+60. [**市场分析I - 中等**](https://leetcode.cn/problems/market-analysis-i/) -> [**题目详解**](./市场分析I.sql)
 61. [****]() -> [**题目详解**](./xxxx.sql)
 62. [****]() -> [**题目详解**](./xxxx.sql)
 63. [****]() -> [**题目详解**](./xxxx.sql)
