@@ -391,7 +391,7 @@
 336. [**spfa判断负环 - 模板**](https://www.acwing.com/problem/content/854/) -> [**题目详解**](./leetcode/spfa判断负环.cpp)
 337. [**Kruskal算法求最小生成树 - 模板**](https://www.acwing.com/problem/content/861/) -> [**题目详解**](./leetcode/Kruskal算法求最小生成树.cpp)
 338. [**Prim算法求最小生成树 - 模板**](https://www.acwing.com/problem/content/860/) -> [**题目详解**](./leetcode/Prim算法求最小生成树.cpp)
-339. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+339. [**最大矩形 - 困难**](https://leetcode.cn/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/最大矩形.cpp)
 340. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
