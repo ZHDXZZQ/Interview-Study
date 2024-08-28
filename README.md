@@ -51,7 +51,7 @@
 > 执行：./yyyy    
 > 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer81题；    
 > InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划，其他手机客户端的题单    
-> 前3个题库已经更新完毕，HOT100还有4题+1vip题，合计预计8月底刷完，AcWing还有47道预计9月中旬结束，高频SQL50题已结束，正在每日更新sql题，剑指offer81题预计9月底结束，然后慢慢写InterView75及后面的计划及题单
+> 前4个题库已经更新完毕，HOT100还有1vip题，AcWing预计9月中旬结束，高频SQL50题已结束，正在每日更新sql题，剑指offer81题预计9月底结束，然后慢慢写InterView75及后面的计划及题单
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
@@ -392,7 +392,13 @@
 337. [**Kruskal算法求最小生成树 - 模板**](https://www.acwing.com/problem/content/861/) -> [**题目详解**](./leetcode/Kruskal算法求最小生成树.cpp)
 338. [**Prim算法求最小生成树 - 模板**](https://www.acwing.com/problem/content/860/) -> [**题目详解**](./leetcode/Prim算法求最小生成树.cpp)
 339. [**最大矩形 - 困难**](https://leetcode.cn/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/最大矩形.cpp)
-340. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+340. [**图中点的层次 - 模板**](https://www.acwing.com/problem/content/849/) -> [**题目详解**](./leetcode/图中点的层次.cpp)
+341. [**树的重心 - 模板**](https://www.acwing.com/problem/content/848/) -> [**题目详解**](./leetcode/树的重心.cpp)
+342. [**（字节面试真题）字符ASCII码的十六进制 - 中等**]() -> [**题目详解**](./leetcode/字符ASCII码的十六进制.cpp)
+343. [**正则表达式匹配 - 困难**](https://leetcode.cn/problems/regular-expression-matching/description/) -> [**题目详解**](./leetcode/正则表达式匹配.cpp)
+344. [**删除无效括号 - 困难**](https://leetcode.cn/problems/remove-invalid-parentheses/description/) -> [**题目详解**](./leetcode/删除无效括号.cpp)
+345. [**染色法判定二分图 - 模板**](https://www.acwing.com/problem/content/862/) -> [**题目详解**](./leetcode/染色法判定二分图.cpp)
+346. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
