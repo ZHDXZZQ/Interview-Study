@@ -49,9 +49,9 @@
 > 编译：g++ xxxx.cpp [-pthread] -o yyyy    
 > 其中[]内的为可选项，-o后跟随生成的可执行文件名字     
 > 执行：./yyyy    
-> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，AcWing算法基础课，高频SQL50题（基础版），剑指offer81题；    
-> InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划，其他手机客户端的题单    
-> 前4个题库已经更新完毕，HOT100还有1vip题，AcWing预计9月中旬结束，高频SQL50题已结束，正在每日更新sql题，剑指offer81题预计9月底结束，然后慢慢写InterView75及后面的计划及题单
+> 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，高频SQL50题（基础版），AcWing算法基础课，牛客剑指offer81题；    
+> InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划，其他手机客户端的题单，牛客的题单      
+> 前5个题库已经去重更新完毕，AcWing还有38道预计9月20结束，正在每日更新sql题，剑指offer81题预计国庆结束，然后慢慢写InterView75及后面的计划及题单
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
@@ -398,7 +398,13 @@
 343. [**正则表达式匹配 - 困难**](https://leetcode.cn/problems/regular-expression-matching/description/) -> [**题目详解**](./leetcode/正则表达式匹配.cpp)
 344. [**删除无效括号 - 困难**](https://leetcode.cn/problems/remove-invalid-parentheses/description/) -> [**题目详解**](./leetcode/删除无效括号.cpp)
 345. [**染色法判定二分图 - 模板**](https://www.acwing.com/problem/content/862/) -> [**题目详解**](./leetcode/染色法判定二分图.cpp)
-346. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+346. [**二分图的最大匹配 - 模板**](https://www.acwing.com/problem/content/863/) -> [**题目详解**](./leetcode/二分图的最大匹配.cpp)
+347. [**八数码 - 模板**](https://www.acwing.com/problem/content/847/) -> [**题目详解**](./leetcode/八数码.cpp)
+348. [**会议室II - 中等**](https://leetcode.cn/problems/meeting-rooms-ii/description/?envType=problem-list-v2&envId=2cktkvj) -> [**题目详解**](./leetcode/会议室II.cpp)
+349. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+350. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+351. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+352. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
