@@ -403,8 +403,14 @@
 348. [**会议室II - 中等**](https://leetcode.cn/problems/meeting-rooms-ii/description/?envType=problem-list-v2&envId=2cktkvj) -> [**题目详解**](./leetcode/会议室II.cpp)
 349. [**数组中的重复数字 - 简单**](https://www.nowcoder.com/practice/6fe361ede7e54db1b84adc81d09d8524?tpId=196&tqId=39734&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D295&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97) -> [**题目详解**](./leetcode/数组中的重复数字.cpp)
 350. [**KMP字符串 - 模板**](https://www.acwing.com/problem/content/833/) -> [**题目详解**](./leetcode/KMP字符串.cpp)
-351. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-352. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+351. [**字符串哈希 - 模板**](https://www.acwing.com/problem/content/843/) -> [**题目详解**](./leetcode/字符串哈希.cpp)
+352. [**连通块中点的数量 - 模板**](https://www.acwing.com/problem/content/839/) -> [**题目详解**](./leetcode/连通块中点的数量.cpp)
+353. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+354. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+355. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+356. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+357. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+358. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
