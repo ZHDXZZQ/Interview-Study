@@ -64,7 +64,7 @@
 61. [**排名靠前的旅行者 - 简单**](https://leetcode.cn/problems/top-travellers/description/) -> [**题目详解**](./排名靠前的旅行者.sql)
 62. [**银行账户概要II - 简单**](https://leetcode.cn/problems/bank-account-summary-ii/description/) -> [**题目详解**](./银行账户概要II.sql)
 63. [**股票的资本损益 - 中等**](https://leetcode.cn/problems/capital-gainloss/description/) -> [**题目详解**](./股票的资本损益.sql)
-64. [****]() -> [**题目详解**](./xxxx.sql)
+64. [**查找每个员工花费的总时间 - 简单**](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/description/) -> [**题目详解**](./查找每个员工花费的总时间.sql)
 65. [****]() -> [**题目详解**](./xxxx.sql)
 66. [****]() -> [**题目详解**](./xxxx.sql)
 67. [****]() -> [**题目详解**](./xxxx.sql)
