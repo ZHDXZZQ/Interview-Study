@@ -65,7 +65,7 @@
 62. [**银行账户概要II - 简单**](https://leetcode.cn/problems/bank-account-summary-ii/description/) -> [**题目详解**](./银行账户概要II.sql)
 63. [**股票的资本损益 - 中等**](https://leetcode.cn/problems/capital-gainloss/description/) -> [**题目详解**](./股票的资本损益.sql)
 64. [**查找每个员工花费的总时间 - 简单**](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/description/) -> [**题目详解**](./查找每个员工花费的总时间.sql)
-65. [****]() -> [**题目详解**](./xxxx.sql)
+65. [**班级表现 - 中等**](https://leetcode.cn/problems/class-performance/description/) -> [**题目详解**](./班级表现.sql)
 66. [****]() -> [**题目详解**](./xxxx.sql)
 67. [****]() -> [**题目详解**](./xxxx.sql)
 68. [****]() -> [**题目详解**](./xxxx.sql)
