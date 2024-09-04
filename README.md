@@ -413,7 +413,13 @@
 358. [**合并果子 - 模板**](https://www.acwing.com/problem/content/150/) -> [**题目详解**](./leetcode/合并果子.cpp)
 359. [**货仓选址 - 模板**](https://www.acwing.com/problem/content/106/) -> [**题目详解**](./leetcode/货仓选址.cpp)
 360. [**斐波那契数列 - 入门 - 剑指offer**](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=196&tqId=37094&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%25A0%2588%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%96%90%E6%B3%A2) -> [**题目详解**](./leetcode/斐波那契数列.cpp)
-361. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+361. [**滑雪 - 模板**](https://www.acwing.com/problem/content/903/) -> [**题目详解**](./leetcode/滑雪.cpp)
+362. [**没有上司的舞会 - 模板**](https://www.acwing.com/problem/content/287/) -> [**题目详解**](./leetcode/没有上司的舞会.cpp)
+363. [**矩阵中的路径 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/2a49359695a544b8939c77358d29b7e6?tpId=196&tqId=39736&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2596%2590%25E6%25B3%25A2%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E7%9F%A9%E9%98%B5%E4%B8%AD) -> [**题目详解**](./leetcode/矩阵中的路径.cpp)
+364. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+365. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+366. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+367. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
