@@ -416,10 +416,13 @@
 361. [**滑雪 - 模板**](https://www.acwing.com/problem/content/903/) -> [**题目详解**](./leetcode/滑雪.cpp)
 362. [**没有上司的舞会 - 模板**](https://www.acwing.com/problem/content/287/) -> [**题目详解**](./leetcode/没有上司的舞会.cpp)
 363. [**矩阵中的路径 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/2a49359695a544b8939c77358d29b7e6?tpId=196&tqId=39736&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2596%2590%25E6%25B3%25A2%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E7%9F%A9%E9%98%B5%E4%B8%AD) -> [**题目详解**](./leetcode/矩阵中的路径.cpp)
-364. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-365. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-366. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+364. [**机器人的运动范围 - 较难 - 剑指offer**](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=196&tqId=39731&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E7%259F%25A9%25E9%2598%25B5%25E4%25B8%25AD%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%9C%BA%E5%99%A8%E4%BA%BA) -> [**题目详解**](./leetcode/机器人的运动范围.cpp)
+365. [**区间覆盖 - 模板**](https://www.acwing.com/problem/content/909/) -> [**题目详解**](./leetcode/区间覆盖.cpp)
+366. [**耍杂技的牛 - 模板**](https://www.acwing.com/problem/content/127/) -> [**题目详解**](./leetcode/耍杂技的牛.cpp)
 367. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+368. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+369. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+370. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
