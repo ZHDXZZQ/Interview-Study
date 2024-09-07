@@ -3,6 +3,7 @@
 #include <chrono>
 #include "binary_search.h"
 #include "sequential_search.h"
+#include "hash_search.h"
 
 const int a[10] = {1, 2, 2, 4, 5, 7, 8, 9, 13, 13};
 
@@ -17,9 +18,13 @@ int main() {
     // BinarySearch(nums, 13);
     // BinarySearch(nums, 0);
     // BinarySearch(nums, 19);
-    SeqSearch(nums, 9);
-    SeqSearch(nums, 3);
-    SeqSearch(nums, 13);
+
+    // SeqSearch(nums, 9);
+    // SeqSearch(nums, 3);
+    // SeqSearch(nums, 13);
+
+    HashSearch(nums, 9);
+
     // for (volatile int i = 0; i < 100000000; ++i);
     auto end = std::chrono::high_resolution_clock::now();
 
