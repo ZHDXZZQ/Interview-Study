@@ -1,12 +1,14 @@
 # GDB相关命令，用于调试及排查CoreDump
+    
 > g++ -g test.cpp -o test，添加-g参数，保留info   
-> ulimit -c unlimited 不限制core dump文件大小，执行以保证生成core文件     
+> ulimit -c unlimited 不限制core dump文件大小，执行以保证生成core文件  
+       
 1. gdb：解释coredump文件
     - gdb xx.elf xx.core
     - gdb core.xx
     - gdb xx_program core.yy
 2. bt：backtrace，显示堆栈
-3. f：frame，调用指定的栈帧
+3. f：frame，调用查看指定的栈帧
     - frame x
     - f x
 4. p：print，打印变量名的值
@@ -26,8 +28,7 @@
     - thread apply [thread id] [command]: 对指定线程执行一个命令。
     - thread apply all [command]: 对所有线程执行一个命令。
     - thread [thread id]: 切换到指定的线程。
-
-    - thread apply all bt
+    - 例如：thread apply all bt
 12. b：breakpoint：在指定位置设置断点
     - b filename:line_number    // 在指定行设置断点
     - b function_name           // 在指定函数设置断点
