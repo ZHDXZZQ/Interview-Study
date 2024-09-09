@@ -70,7 +70,7 @@
 67. [**计算订单平均商品数量 - 简单**](https://leetcode.cn/problems/calculate-compressed-mean/description/) -> [**题目详解**](./计算订单平均商品数量.sql)
 68. [**寻找今年具有正收入的客户 - 简单**](https://leetcode.cn/problems/find-customers-with-positive-revenue-this-year/description/) -> [**题目详解**](./寻找今年具有正收入的客户.sql)
 69. [**每天的领导和合伙人 - 简单**](https://leetcode.cn/problems/daily-leads-and-partners/description/) -> [**题目详解**](./每天的领导和合伙人.sql)
-70. [****]() -> [**题目详解**](./xxxx.sql)
+70. [**奇数和偶数交易 - 中等**](https://leetcode.cn/problems/odd-and-even-transactions/description/) -> [**题目详解**](./奇数和偶数交易.sql)
 71. [****]() -> [**题目详解**](./xxxx.sql)
 72. [****]() -> [**题目详解**](./xxxx.sql)
 73. [****]() -> [**题目详解**](./xxxx.sql)

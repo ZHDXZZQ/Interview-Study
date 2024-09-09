@@ -419,7 +419,7 @@
 364. [**机器人的运动范围 - 较难 - 剑指offer**](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=196&tqId=39731&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E7%259F%25A9%25E9%2598%25B5%25E4%25B8%25AD%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%9C%BA%E5%99%A8%E4%BA%BA) -> [**题目详解**](./leetcode/机器人的运动范围.cpp)
 365. [**区间覆盖 - 模板**](https://www.acwing.com/problem/content/909/) -> [**题目详解**](./leetcode/区间覆盖.cpp)
 366. [**耍杂技的牛 - 模板**](https://www.acwing.com/problem/content/127/) -> [**题目详解**](./leetcode/耍杂技的牛.cpp)
-367. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+367. [**剪绳子 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=196&tqId=39732&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E5%89%AA) -> [**题目详解**](./leetcode/剪绳子.cpp)
 368. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 369. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 370. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
