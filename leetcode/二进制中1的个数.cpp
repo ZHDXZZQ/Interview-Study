@@ -10,7 +10,7 @@ int main()
 {
     int n;
     scanf("%d", &n);
-    while (n -- )
+    while (n --)
     {
         int x, s = 0;
         scanf("%d", &x);

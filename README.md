@@ -304,7 +304,7 @@
 249. [**试除法求约数 - 模板**](https://www.acwing.com/problem/content/871/) -> [**题目详解**](./leetcode/试除法求约数.cpp)
 250. [**无重叠区间 - 中等**](https://leetcode.cn/problems/non-overlapping-intervals/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/无重叠区间.cpp)
 251. [**咒语和药水的成功对数 - 中等**](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/咒语和药水的成功对数.cpp)
-252. [**二进制中1的个数 - 模板**](https://www.acwing.com/problem/content/803/) -> [**题目详解**](./leetcode/二进制中1的个数.cpp)
+252. [**二进制中1的个数（同牛客剑指offer的 二进制中1的个数 - 模板**](https://www.acwing.com/problem/content/803/) -> [**题目详解**](./leetcode/二进制中1的个数.cpp)
 253. [**或运算的最小翻转次数 - 中等**](https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/或运算的最小翻转次数.cpp)
 254. [**删掉一个元素以后去全为1的最长子数组 - 中等**](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/删掉一个元素以后去全为1的最长子数组.cpp)
 255. [**快速幂 - 模板**](https://www.acwing.com/problem/content/877/) -> [**题目详解**](./leetcode/快速幂.cpp)
@@ -420,8 +420,8 @@
 365. [**区间覆盖 - 模板**](https://www.acwing.com/problem/content/909/) -> [**题目详解**](./leetcode/区间覆盖.cpp)
 366. [**耍杂技的牛 - 模板**](https://www.acwing.com/problem/content/127/) -> [**题目详解**](./leetcode/耍杂技的牛.cpp)
 367. [**剪绳子 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=196&tqId=39732&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E5%89%AA) -> [**题目详解**](./leetcode/剪绳子.cpp)
-368. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-369. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+368. [**数的三次方根 - 模板**](https://www.acwing.com/problem/content/792/) -> [**题目详解**](./leetcode/数的三次方根.cpp)
+369. [**数值的整数次方 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=196&tqId=39715&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E5%2589%25AA%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B0%E5%80%BC) -> [**题目详解**](./leetcode/数值的整数次方.cpp)
 370. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
