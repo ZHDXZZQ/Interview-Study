@@ -423,6 +423,9 @@
 368. [**数的三次方根 - 模板**](https://www.acwing.com/problem/content/792/) -> [**题目详解**](./leetcode/数的三次方根.cpp)
 369. [**数值的整数次方 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=196&tqId=39715&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E5%2589%25AA%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B0%E5%80%BC) -> [**题目详解**](./leetcode/数值的整数次方.cpp)
 370. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+371. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+372. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+373. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
