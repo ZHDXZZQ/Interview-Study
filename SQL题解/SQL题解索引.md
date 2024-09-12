@@ -71,6 +71,6 @@
 68. [**寻找今年具有正收入的客户 - 简单**](https://leetcode.cn/problems/find-customers-with-positive-revenue-this-year/description/) -> [**题目详解**](./寻找今年具有正收入的客户.sql)
 69. [**每天的领导和合伙人 - 简单**](https://leetcode.cn/problems/daily-leads-and-partners/description/) -> [**题目详解**](./每天的领导和合伙人.sql)
 70. [**奇数和偶数交易 - 中等**](https://leetcode.cn/problems/odd-and-even-transactions/description/) -> [**题目详解**](./奇数和偶数交易.sql)
-71. [****]() -> [**题目详解**](./xxxx.sql)
+71. [**树节点 - 中等**](https://leetcode.cn/problems/tree-node/description/) -> [**题目详解**](./树节点.sql)
 72. [****]() -> [**题目详解**](./xxxx.sql)
 73. [****]() -> [**题目详解**](./xxxx.sql)

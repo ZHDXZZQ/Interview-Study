@@ -422,9 +422,9 @@
 367. [**剪绳子 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=196&tqId=39732&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E5%89%AA) -> [**题目详解**](./leetcode/剪绳子.cpp)
 368. [**数的三次方根 - 模板**](https://www.acwing.com/problem/content/792/) -> [**题目详解**](./leetcode/数的三次方根.cpp)
 369. [**数值的整数次方 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=196&tqId=39715&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E5%2589%25AA%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B0%E5%80%BC) -> [**题目详解**](./leetcode/数值的整数次方.cpp)
-370. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-371. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-372. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+370. [**打印从1到最大的n位数 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/4436c93e568c48f6b28ff436173b997f?tpId=196&tqId=39739&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E4%25BA%258C%25E8%25BF%259B%25E5%2588%25B6%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%89%93%E5%8D%B0%E4%BB%8E) -> [**题目详解**](./leetcode/打印从1到最大的n位数.cpp)
+371. [**最大异或对 - 模板**](https://www.acwing.com/problem/content/145/) -> [**题目详解**](./leetcode/最大异或对.cpp)
+372. [**模拟堆 - 模板**](https://www.acwing.com/problem/content/841/) -> [**题目详解**](./leetcode/模拟堆.cpp)
 373. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
