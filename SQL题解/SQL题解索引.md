@@ -72,5 +72,7 @@
 69. [**每天的领导和合伙人 - 简单**](https://leetcode.cn/problems/daily-leads-and-partners/description/) -> [**题目详解**](./每天的领导和合伙人.sql)
 70. [**奇数和偶数交易 - 中等**](https://leetcode.cn/problems/odd-and-even-transactions/description/) -> [**题目详解**](./奇数和偶数交易.sql)
 71. [**树节点 - 中等**](https://leetcode.cn/problems/tree-node/description/) -> [**题目详解**](./树节点.sql)
-72. [****]() -> [**题目详解**](./xxxx.sql)
+72. [**产品销售分析III - 中等**](https://leetcode.cn/problems/product-sales-analysis-iii/submissions/564910843/) -> [**题目详解**](./产品销售分析III.sql)
 73. [****]() -> [**题目详解**](./xxxx.sql)
+74. [****]() -> [**题目详解**](./xxxx.sql)
+75. [****]() -> [**题目详解**](./xxxx.sql)

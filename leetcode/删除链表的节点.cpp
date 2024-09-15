@@ -1,3 +1,7 @@
+/*
+    思路： 遍历，时间On，空间O1
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
