@@ -427,8 +427,11 @@
 372. [**模拟堆 - 模板**](https://www.acwing.com/problem/content/841/) -> [**题目详解**](./leetcode/模拟堆.cpp)
 373. [**树的子结构 - 中等**](https://www.nowcoder.com/practice/6e196c44c7004d15b1610b9afca8bd88?tpId=196&tqId=39724&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2589%2593%25E5%258D%25B0%25E4%25BB%258E%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%A0%91%E7%9A%84%E5%AD%90) -> [**题目详解**](./leetcode/树的子结构.cpp)
 374. [**调整数组顺序使奇数位于偶数前面(一) - 中等 - 剑指offer**](https://www.nowcoder.com/practice/ef1f53ef31ca408cada5093c8780f44b?tpId=196&tqId=37110&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2589%2593%25E5%258D%25B0%25E4%25BB%258E%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84) -> [**题目详解**](./leetcode/调整数组顺序使奇数位于偶数前面(一).cpp)
-375. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-376. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+375. [**食物链 - 模板**](https://www.acwing.com/problem/content/242/) -> [**题目详解**](./leetcode/食物链.cpp)
+376. [**二叉树的镜像 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/a9d0ecbacef9410ca97463e4a5c83be7?tpId=196&tqId=37103&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj&difficulty=undefined&judgeStatus=undefined&tags=&title=%E9%95%9C%E5%83%8F) -> [**题目详解**](./leetcode/二叉树的镜像.cpp)
+377. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+378. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+379. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发

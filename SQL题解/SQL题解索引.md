@@ -73,6 +73,6 @@
 70. [**奇数和偶数交易 - 中等**](https://leetcode.cn/problems/odd-and-even-transactions/description/) -> [**题目详解**](./奇数和偶数交易.sql)
 71. [**树节点 - 中等**](https://leetcode.cn/problems/tree-node/description/) -> [**题目详解**](./树节点.sql)
 72. [**产品销售分析III - 中等**](https://leetcode.cn/problems/product-sales-analysis-iii/submissions/564910843/) -> [**题目详解**](./产品销售分析III.sql)
-73. [****]() -> [**题目详解**](./xxxx.sql)
+73. [**各个视频的平均完播率 - 简单**](https://www.nowcoder.com/practice/96263162f69a48df9d84a93c71045753?tpId=268&tqId=2285032&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%25A0%2591%25E7%259A%2584%25E5%25AD%2590%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196) -> [**题目详解**](./各个视频的平均完播率.sql)
 74. [****]() -> [**题目详解**](./xxxx.sql)
 75. [****]() -> [**题目详解**](./xxxx.sql)
