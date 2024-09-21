@@ -74,5 +74,5 @@
 71. [**树节点 - 中等**](https://leetcode.cn/problems/tree-node/description/) -> [**题目详解**](./树节点.sql)
 72. [**产品销售分析III - 中等**](https://leetcode.cn/problems/product-sales-analysis-iii/submissions/564910843/) -> [**题目详解**](./产品销售分析III.sql)
 73. [**各个视频的平均完播率 - 简单**](https://www.nowcoder.com/practice/96263162f69a48df9d84a93c71045753?tpId=268&tqId=2285032&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%25A0%2591%25E7%259A%2584%25E5%25AD%2590%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196) -> [**题目详解**](./各个视频的平均完播率.sql)
-74. [****]() -> [**题目详解**](./xxxx.sql)
+74. [**平均播放进度大于60%的视频类别 - 简单**](https://www.nowcoder.com/practice/c60242566ad94bc29959de0cdc6d95ef?tpId=268&tqId=2285039&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./平均播放进度大于60%的视频类别.sql)
 75. [****]() -> [**题目详解**](./xxxx.sql)

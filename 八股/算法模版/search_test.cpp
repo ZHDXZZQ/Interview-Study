@@ -5,6 +5,7 @@
 #include "sequential_search.h"
 #include "hash_search.h"
 #include "bst_search.h"
+#include "avl_search.h"
 
 const int a[10] = {1, 2, 2, 4, 5, 7, 8, 9, 13, 13};
 
@@ -26,7 +27,9 @@ int main() {
 
     // HashSearch(nums, 9);
 
-    BstSearch(nums, 9);
+    // BstSearch(nums, 9);
+
+    AvlSearch(nums, 9);
 
     // for (volatile int i = 0; i < 100000000; ++i);
     auto end = std::chrono::high_resolution_clock::now();

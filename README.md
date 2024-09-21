@@ -433,8 +433,11 @@
 378. [**顺时针打印矩阵 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=196&tqId=39717&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E9%2595%259C%25E5%2583%258F%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E9%A1%BA%E6%97%B6%E9%92%88) -> [**题目详解**](./leetcode/顺时针打印矩阵.cpp)
 379. [**包含min函数的栈 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=196&tqId=37126&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E9%2595%259C%25E5%2583%258F%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=min) -> [**题目详解**](./leetcode/包含min函数的栈.cpp)
 380. [**栈的压入、弹出序列 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=196&tqId=39723&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E9%2595%259C%25E5%2583%258F%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5) -> [**题目详解**](./leetcode/栈的压入弹出序列.cpp)
-381. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+381. [**差分矩阵 - 模板**](https://www.acwing.com/problem/content/800/) -> [**题目详解**](./leetcode/差分矩阵.cpp)
 382. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+383. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+384. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+385. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
