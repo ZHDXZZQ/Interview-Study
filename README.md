@@ -386,7 +386,7 @@
 331. [**n-皇后问题 - 模板**](https://www.acwing.com/problem/content/845/) -> [**题目详解**](./leetcode/n-皇后问题.cpp)
 332. [**有边数限制的最短路（Bellman_ford） - 模板**](https://www.acwing.com/problem/content/855/) -> [**题目详解**](./leetcode/有边数限制的最短路（Bellman_ford）.cpp)
 333. [**戳气球 - 困难**](https://leetcode.cn/problems/burst-balloons/description/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/戳气球.cpp)
-334. [**二叉树的序列化与反序列化 - 困难**](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/二叉树的序列化与反序列化.cpp)
+334. [**二叉树的序列化与反序列化（同牛客剑指offer的 序列化二叉树） - 困难**](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/?envType=problem-list-v2&envId=lo7t7vKa) -> [**题目详解**](./leetcode/二叉树的序列化与反序列化.cpp)
 335. [**spfa求最短路 - 模板**](https://www.acwing.com/problem/content/853/) -> [**题目详解**](./leetcode/spfa求最短路.cpp)
 336. [**spfa判断负环 - 模板**](https://www.acwing.com/problem/content/854/) -> [**题目详解**](./leetcode/spfa判断负环.cpp)
 337. [**Kruskal算法求最小生成树 - 模板**](https://www.acwing.com/problem/content/861/) -> [**题目详解**](./leetcode/Kruskal算法求最小生成树.cpp)
@@ -437,7 +437,10 @@
 382. [**二叉搜索树的后序遍历序列 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=196&tqId=39722&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%25A0%2588%25E7%259A%2584%25E5%258E%258B%25E5%2585%25A5%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84) -> [**题目详解**](./leetcode/二叉搜索树的后序遍历序列.cpp)
 383. [**区间和 - 模板**](https://www.acwing.com/problem/content/804/) -> [**题目详解**](./leetcode/区间和.cpp)
 384. [**蒙德里安的梦想 - 模板**](https://www.acwing.com/problem/content/293/) -> [**题目详解**](./leetcode/蒙德里安的梦想.cpp)
-385. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+385. [**二叉搜索树与双向链表 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=196&tqId=37093&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E4%25BA%258C%25E5%258F%2589%25E6%2590%259C%25E7%25B4%25A2%25E6%25A0%2591%25E7%259A%2584%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E) -> [**题目详解**](./leetcode/二叉搜索树与双向链表.cpp)
+386. [**最短Hamilton路径 - 模板**](https://www.acwing.com/problem/content/93/) -> [**题目详解**](./leetcode/最短Hamilton路径.cpp)
+387. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+388. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
