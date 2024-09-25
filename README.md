@@ -441,6 +441,9 @@
 386. [**最短Hamilton路径 - 模板**](https://www.acwing.com/problem/content/93/) -> [**题目详解**](./leetcode/最短Hamilton路径.cpp)
 387. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 388. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+389. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+390. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+391. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
