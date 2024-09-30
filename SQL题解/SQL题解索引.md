@@ -78,6 +78,6 @@
 75. [**2021年11月每天的人均浏览文章时长 - 简单**](https://www.nowcoder.com/practice/8e33da493a704d3da15432e4a0b61bb3?tpId=268&tqId=2285342&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./2021年11月每天的人均浏览文章时长.sql)
 76. [**计算商城中2021年每月的GMV - 简单**](https://www.nowcoder.com/practice/5005cbf5308249eda1fbf666311753bf?tpId=268&tqId=2285515&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./计算商城中2021年每月的GMV.sql)
 77. [**某宝店铺的SPU数量 - 简单**](https://www.nowcoder.com/practice/2b6ea6b8fe634d2cbc39be46db411ca4?tpId=268&tqId=2285758&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./某宝店铺的SPU数量.sql)
-78. [****]() -> [**题目详解**](./xxxx.sql)
+78. [**某乎问答11月份日人均回答量 - 简单**](https://www.nowcoder.com/practice/d1f5a1e50d0b49f3a39eb01c4fdb621f?tpId=268&tqId=2286286&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./某乎问答11月份日人均回答量.sql)
 79. [****]() -> [**题目详解**](./xxxx.sql)
 80. [****]() -> [**题目详解**](./xxxx.sql)

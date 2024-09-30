@@ -206,7 +206,7 @@
 151. [**编辑距离 - 中等**](https://leetcode.cn/problems/edit-distance/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/编辑距离.cpp)
 152. [**IPO - 困难**](https://leetcode.cn/problems/ipo/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/IPO.cpp)
 153. [**最大正方形 - 中等**](https://leetcode.cn/problems/maximal-square/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最大正方形.cpp)
-154. [**数据流的中位数 - 困难**](https://leetcode.cn/problems/find-median-from-data-stream/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/数据流的中位数.cpp)
+154. [**数据流的中位数（同牛客剑指offer的 数据流中的中位数 - 困难**](https://leetcode.cn/problems/find-median-from-data-stream/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/数据流的中位数.cpp)
 155. [**寻找两个正序数组的中位数 - 困难**](https://leetcode.cn/problems/median-of-two-sorted-arrays/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/寻找两个正序数组的中位数.cpp)
 156. [**找出字符串中第一个匹配项的下标 - 简单**](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/找出字符串中第一个匹配项的下标.cpp)
 157. [**文本左右对齐 - 困难**](https://leetcode.cn/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/文本左右对齐.cpp)
@@ -441,9 +441,12 @@
 386. [**最短Hamilton路径 - 模板**](https://www.acwing.com/problem/content/93/) -> [**题目详解**](./leetcode/最短Hamilton路径.cpp)
 387. [**计数问题 - 模板 - 困难（不会）**](https://www.acwing.com/problem/content/340/) -> [**题目详解**](./leetcode/计数问题.cpp)
 388. [**字符串的排列 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=196&tqId=37112&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E4%25BA%258C%25E5%258F%2589%25E6%2590%259C%25E7%25B4%25A2%25E6%25A0%2591%25E4%25B8%258E%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97) -> [**题目详解**](./leetcode/字符串的排列.cpp)
-389. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-390. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-391. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+389. [**筛质数 - 模板 - 数论**](https://www.acwing.com/problem/content/870/) -> [**题目详解**](./leetcode/筛质数.cpp)
+390. [**欧拉函数 - 模板 - 数论**](https://www.acwing.com/problem/content/875/) -> [**题目详解**](./leetcode/欧拉函数.cpp)
+391. [**筛法求欧拉函数 - 模板 - 数论**](https://www.acwing.com/problem/content/876/) -> [**题目详解**](./leetcode/筛法求欧拉函数.cpp)
+392. [**最小的K个数 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=196&tqId=37099&rp=1&ru=%2Fexam%2Foj&qru=%2Fexam%2Foj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E5%25AD%2597%25E7%25AC%25A6%25E4%25B8%25B2%25E7%259A%2584%25E6%258E%2592%25E5%2588%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA&dayCountBigMember=365%E5%A4%A9) -> [**题目详解**](./leetcode/最小的K个数.cpp)
+393. [**整数中1出现的次数（从1到n整数中1出现的次数） - 中等 - 剑指offer**](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=196&tqId=39714&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E5%25AD%2597%25E7%25AC%25A6%25E4%25B8%25B2%25E7%259A%2584%25E6%258E%2592%25E5%2588%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B4%E6%95%B0%E4%B8%AD1) -> [**题目详解**](./leetcode/整数中1出现的次数（从1到n整数中1出现的次数）.cpp)
+394. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
