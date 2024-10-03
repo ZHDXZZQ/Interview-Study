@@ -79,5 +79,5 @@
 76. [**计算商城中2021年每月的GMV - 简单**](https://www.nowcoder.com/practice/5005cbf5308249eda1fbf666311753bf?tpId=268&tqId=2285515&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./计算商城中2021年每月的GMV.sql)
 77. [**某宝店铺的SPU数量 - 简单**](https://www.nowcoder.com/practice/2b6ea6b8fe634d2cbc39be46db411ca4?tpId=268&tqId=2285758&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./某宝店铺的SPU数量.sql)
 78. [**某乎问答11月份日人均回答量 - 简单**](https://www.nowcoder.com/practice/d1f5a1e50d0b49f3a39eb01c4fdb621f?tpId=268&tqId=2286286&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./某乎问答11月份日人均回答量.sql)
-79. [****]() -> [**题目详解**](./xxxx.sql)
+79. [**牛客直播各科目平均观看时长 - 中等**](https://www.nowcoder.com/practice/e9e7dc4c8623467793f6999cbfee9360?tpId=268&tqId=2286189&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./牛客直播各科目平均观看时长.sql)
 80. [****]() -> [**题目详解**](./xxxx.sql)

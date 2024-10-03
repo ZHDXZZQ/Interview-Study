@@ -446,7 +446,10 @@
 391. [**筛法求欧拉函数 - 模板 - 数论**](https://www.acwing.com/problem/content/876/) -> [**题目详解**](./leetcode/筛法求欧拉函数.cpp)
 392. [**最小的K个数 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=196&tqId=37099&rp=1&ru=%2Fexam%2Foj&qru=%2Fexam%2Foj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E5%25AD%2597%25E7%25AC%25A6%25E4%25B8%25B2%25E7%259A%2584%25E6%258E%2592%25E5%2588%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA&dayCountBigMember=365%E5%A4%A9) -> [**题目详解**](./leetcode/最小的K个数.cpp)
 393. [**整数中1出现的次数（从1到n整数中1出现的次数） - 中等 - 剑指offer**](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=196&tqId=39714&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E5%25AD%2597%25E7%25AC%25A6%25E4%25B8%25B2%25E7%259A%2584%25E6%258E%2592%25E5%2588%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B4%E6%95%B0%E4%B8%AD1) -> [**题目详解**](./leetcode/整数中1出现的次数（从1到n整数中1出现的次数）.cpp)
-394. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+394. [**快速幂求逆元 - 模板 - 数论**](https://www.acwing.com/problem/content/878/) -> [**题目详解**](./leetcode/快速幂求逆元.cpp)
+395. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+396. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+397. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
