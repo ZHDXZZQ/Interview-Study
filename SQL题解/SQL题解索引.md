@@ -81,3 +81,5 @@
 78. [**某乎问答11月份日人均回答量 - 简单**](https://www.nowcoder.com/practice/d1f5a1e50d0b49f3a39eb01c4fdb621f?tpId=268&tqId=2286286&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./某乎问答11月份日人均回答量.sql)
 79. [**牛客直播各科目平均观看时长 - 中等**](https://www.nowcoder.com/practice/e9e7dc4c8623467793f6999cbfee9360?tpId=268&tqId=2286189&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./牛客直播各科目平均观看时长.sql)
 80. [****]() -> [**题目详解**](./xxxx.sql)
+81. [****]() -> [**题目详解**](./xxxx.sql)
+82. [****]() -> [**题目详解**](./xxxx.sql)
