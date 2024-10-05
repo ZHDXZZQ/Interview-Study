@@ -449,9 +449,9 @@
 394. [**快速幂求逆元 - 模板 - 数论**](https://www.acwing.com/problem/content/878/) -> [**题目详解**](./leetcode/快速幂求逆元.cpp)
 395. [**扩展欧几里得算法 - 模板 - 数论**](https://www.acwing.com/problem/content/879/) -> [**题目详解**](./leetcode/扩展欧几里得算法.cpp)
 396. [**数字序列中某一位的数字 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/29311ff7404d44e0b07077f4201418f5?tpId=196&tqId=39742&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2595%25B4%25E6%2595%25B0%25E4%25B8%25AD1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B0%E5%AD%97%E5%BA%8F%E5%88%97) -> [**题目详解**](./leetcode/数字序列中某一位的数字.cpp)
-397. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-398. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-399. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+397. [**线性同余方程 - 模板 - 数论**](https://www.acwing.com/problem/content/880/) -> [**题目详解**](./leetcode/线性同余方程.cpp)
+398. [**表达整数的奇怪方式 - 模板 - 数论**](https://www.acwing.com/problem/content/206/) -> [**题目详解**](./leetcode/表达整数的奇怪方式.cpp)
+399. [**把数组排成最小的数 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=196&tqId=39721&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2595%25B0%25E5%25AD%2597%25E5%25BA%258F%25E5%2588%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%8A%8A%E6%95%B0%E7%BB%84) -> [**题目详解**](./leetcode/把数组排成最小的数.cpp)
 400. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
