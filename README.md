@@ -235,7 +235,7 @@
 180. **（腾讯面试原题）对折链表 - 中等** -> [**题目详解**](./leetcode/对折链表.cpp)
 181. [**划分字母区间 - 中等**](https://leetcode.cn/problems/partition-labels/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/划分字母区间.cpp)
 182. [**设计机械累加器 - 中等**](https://leetcode.cn/problems/qiu-12n-lcof/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/设计机械累加器.cpp)
-183. [**珠宝的最高价值 - 中等**](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/珠宝的最高价值.cpp)
+183. [**珠宝的最高价值（同牛客剑指offer的 礼物的最大价值） - 中等**](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/珠宝的最高价值.cpp)
 184. [**把字符串转换成整数(atoi) - 中等**](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/把字符串转换成整数(atoi).cpp)
 185. [**动态口令 - 简单**](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/动态口令.cpp)
 186. [**有效数字（同牛客剑指offer的 表示数值的字符串） - 中等**](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/有效数字.cpp)
@@ -452,7 +452,10 @@
 397. [**线性同余方程 - 模板 - 数论**](https://www.acwing.com/problem/content/880/) -> [**题目详解**](./leetcode/线性同余方程.cpp)
 398. [**表达整数的奇怪方式 - 模板 - 数论**](https://www.acwing.com/problem/content/206/) -> [**题目详解**](./leetcode/表达整数的奇怪方式.cpp)
 399. [**把数组排成最小的数 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=196&tqId=39721&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2595%25B0%25E5%25AD%2597%25E5%25BA%258F%25E5%2588%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%8A%8A%E6%95%B0%E7%BB%84) -> [**题目详解**](./leetcode/把数组排成最小的数.cpp)
-400. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+400. [**高斯消元求解线性方程组 - 模板 - 数论**](https://www.acwing.com/problem/content/885/) -> [**题目详解**](./leetcode/高斯消元求解线性方程组.cpp)
+401. [**把数字翻译成字符串 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/046a55e6cd274cffb88fc32dba695668?tpId=196&tqId=37174&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%258A%258A%25E6%2595%25B0%25E7%25BB%2584%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%8A%8A%E6%95%B0%E5%AD%97) -> [**题目详解**](./leetcode/把数字翻译成字符串.cpp)
+402. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+403. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
