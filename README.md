@@ -454,7 +454,7 @@
 399. [**把数组排成最小的数 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=196&tqId=39721&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2595%25B0%25E5%25AD%2597%25E5%25BA%258F%25E5%2588%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%8A%8A%E6%95%B0%E7%BB%84) -> [**题目详解**](./leetcode/把数组排成最小的数.cpp)
 400. [**高斯消元求解线性方程组 - 模板 - 数论**](https://www.acwing.com/problem/content/885/) -> [**题目详解**](./leetcode/高斯消元求解线性方程组.cpp)
 401. [**把数字翻译成字符串 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/046a55e6cd274cffb88fc32dba695668?tpId=196&tqId=37174&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%258A%258A%25E6%2595%25B0%25E7%25BB%2584%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%8A%8A%E6%95%B0%E5%AD%97) -> [**题目详解**](./leetcode/把数字翻译成字符串.cpp)
-402. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+402. [**高斯消元解异或线性方程组 - 模板 - 数论**](https://www.acwing.com/problem/content/886/) -> [**题目详解**](./leetcode/高斯消元解异或线性方程组.cpp)
 403. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
