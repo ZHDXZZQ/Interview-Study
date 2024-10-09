@@ -51,7 +51,7 @@
 > 执行：./yyyy    
 > 题库：面试经典150题，LeetCode75，LeetCode热题100，LeetCode热题HOT100，高频SQL50题（基础版），AcWing算法基础课，牛客剑指offer81题；    
 > InterView75，程序员面试金典，119经典题变种挑战，2024春招冲刺百题计划，其他手机客户端的题单，牛客的题单      
-> 前5个题库已经去重更新完毕，AcWing还有18道预计国庆后结束，正在每日更新sql题，剑指offer81题预计国庆后结束，然后慢慢写InterView75及后面的计划及题单
+> 前6个题库已经去重更新完毕，正在每日更新sql题，剑指offer81题十月底结束，然后慢慢写InterView75及后面的计划及题单
   
 1. [**合并K个升序链表 - 困难**](https://leetcode.cn/problems/merge-k-sorted-lists/?favorite=2cktkvj) -> [**题目详解**](./leetcode/合并K个有序链表.cpp)
 2. [**合并两个有序数组 - 简单**](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序数组.cpp)
@@ -457,8 +457,17 @@
 402. [**高斯消元解异或线性方程组 - 模板 - 数论**](https://www.acwing.com/problem/content/886/) -> [**题目详解**](./leetcode/高斯消元解异或线性方程组.cpp)
 403. [**求组合数II - 模板 - 数论**](https://www.acwing.com/problem/content/888/) -> [**题目详解**](./leetcode/求组合数II.cpp)
 404. [**第一个只出现一次的字符 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=196&tqId=37558&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%258A%258A%25E6%2595%25B0%25E5%25AD%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E7%AC%AC%E4%B8%80%E4%B8%AA) -> [**题目详解**](./leetcode/第一个只出现一次的字符.cpp)
-405. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
-406. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+405. [**求组合数III - 模板 - 数论**](https://www.acwing.com/problem/content/889/) -> [**题目详解**](./leetcode/求组合数III.cpp)
+406. [**求组合数IV - 模板 - 数论**](https://www.acwing.com/problem/content/890/) -> [**题目详解**](./leetcode/求组合数IV.cpp)
+407. [**满足条件的01序列 - 模板 - 数论**](https://www.acwing.com/problem/content/891/) -> [**题目详解**](./leetcode/满足条件的01序列.cpp)
+408. [**能被整除的数 - 模板 - 数论**](https://www.acwing.com/problem/content/892/) -> [**题目详解**](./leetcode/能被整除的数.cpp)
+409. [**Nim游戏 - 模板 - 数论**](https://www.acwing.com/problem/content/893/) -> [**题目详解**](./leetcode/Nim游戏.cpp)
+410. [**台阶Nim游戏 - 模板 - 数论**](https://www.acwing.com/problem/content/894/) -> [**题目详解**](./leetcode/台阶Nim游戏.cpp)
+411. [**集合Nim游戏 - 模板 - 数论**](https://www.acwing.com/problem/content/895/) -> [**题目详解**](./leetcode/集合Nim游戏.cpp)
+412. [**拆分Nim游戏 - 模板 - 数论**](https://www.acwing.com/problem/content/896/) -> [**题目详解**](./leetcode/拆分Nim游戏.cpp)
+413. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+414. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+415. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
