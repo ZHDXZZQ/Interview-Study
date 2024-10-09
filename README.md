@@ -96,7 +96,7 @@
 41. [**长度最小的子数组 - 中等**](https://leetcode.cn/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/长度最小的子数组.cpp)
 42. [**合并两个有序链表（同牛客剑指offer的 合并两个排序的链表） - 简单**](https://leetcode.cn/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/合并两个有序链表.cpp)
 43. [**最长连续序列 - 中等**](https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/最长连续序列.cpp)
-44. [**无重复字符的最长子串 - 中等**](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/无重复字符的最长子串.cpp)
+44. [**无重复字符的最长子串（同牛客剑指offer的 最长不含重复字符的子字符串） - 中等**](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/无重复字符的最长子串.cpp)
 45. [**有效的字母异位词 - 简单**](https://leetcode.cn/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/有效的字母异位词.cpp)
 46. [**存在重复元素II - 简单**](https://leetcode.cn/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/存在重复元素II.cpp)
 47. [**二叉树的最大深度 - 简单**](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) -> [**题目详解**](./leetcode/二叉树的最大深度.cpp)
@@ -221,7 +221,7 @@
 166. **（小红书面试原题）所有可能的组合 - 中等** -> [**题目详解**](./leetcode/所有可能的组合.cpp)
 167. [**（美团面试原题）重排链表 - 中等**](https://leetcode.cn/problems/reorder-list/description/) -> [**题目详解**](./leetcode/重排链表.cpp)
 168. [**预测赢家 - 中等**](https://leetcode.cn/problems/predict-the-winner/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/预测赢家.cpp)
-169. [**丑数II - 中等**](https://leetcode.cn/problems/ugly-number-ii/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/丑数II.cpp)
+169. [**丑数II（同牛客剑指offer的 丑数） - 中等**](https://leetcode.cn/problems/ugly-number-ii/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/丑数II.cpp)
 170. [**比较版本号 - 中等**](https://leetcode.cn/problems/compare-version-numbers/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/比较版本号.cpp)
 171. [**重复的DNA序列 - 中等**](https://leetcode.cn/problems/repeated-dna-sequences/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/重复的DNA序列.cpp)
 172. [**字典序排数 - 中等**](https://leetcode.cn/problems/lexicographical-numbers/description/?envType=study-plan-v2&envId=2024-spring-sprint-100) -> [**题目详解**](./leetcode/字典序排数.cpp)
@@ -429,7 +429,7 @@
 374. [**调整数组顺序使奇数位于偶数前面(一) - 中等 - 剑指offer**](https://www.nowcoder.com/practice/ef1f53ef31ca408cada5093c8780f44b?tpId=196&tqId=37110&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%2589%2593%25E5%258D%25B0%25E4%25BB%258E%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84) -> [**题目详解**](./leetcode/调整数组顺序使奇数位于偶数前面(一).cpp)
 375. [**食物链 - 模板**](https://www.acwing.com/problem/content/242/) -> [**题目详解**](./leetcode/食物链.cpp)
 376. [**二叉树的镜像 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/a9d0ecbacef9410ca97463e4a5c83be7?tpId=196&tqId=37103&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj&difficulty=undefined&judgeStatus=undefined&tags=&title=%E9%95%9C%E5%83%8F) -> [**题目详解**](./leetcode/二叉树的镜像.cpp)
-377. [**逆序对的数量 - 模板**](https://www.acwing.com/problem/content/790/) -> [**题目详解**](./leetcode/逆序对的数量.cpp)
+377. [**逆序对的数量（同牛客剑指offer的 数组中的逆序对） - 模板**](https://www.acwing.com/problem/content/790/) -> [**题目详解**](./leetcode/逆序对的数量.cpp)
 378. [**顺时针打印矩阵 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=196&tqId=39717&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E9%2595%259C%25E5%2583%258F%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E9%A1%BA%E6%97%B6%E9%92%88) -> [**题目详解**](./leetcode/顺时针打印矩阵.cpp)
 379. [**包含min函数的栈 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=196&tqId=37126&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E9%2595%259C%25E5%2583%258F%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=min) -> [**题目详解**](./leetcode/包含min函数的栈.cpp)
 380. [**栈的压入、弹出序列 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=196&tqId=39723&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E9%2595%259C%25E5%2583%258F%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5) -> [**题目详解**](./leetcode/栈的压入弹出序列.cpp)
@@ -455,7 +455,10 @@
 400. [**高斯消元求解线性方程组 - 模板 - 数论**](https://www.acwing.com/problem/content/885/) -> [**题目详解**](./leetcode/高斯消元求解线性方程组.cpp)
 401. [**把数字翻译成字符串 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/046a55e6cd274cffb88fc32dba695668?tpId=196&tqId=37174&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%258A%258A%25E6%2595%25B0%25E7%25BB%2584%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%8A%8A%E6%95%B0%E5%AD%97) -> [**题目详解**](./leetcode/把数字翻译成字符串.cpp)
 402. [**高斯消元解异或线性方程组 - 模板 - 数论**](https://www.acwing.com/problem/content/886/) -> [**题目详解**](./leetcode/高斯消元解异或线性方程组.cpp)
-403. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+403. [**求组合数II - 模板 - 数论**](https://www.acwing.com/problem/content/888/) -> [**题目详解**](./leetcode/求组合数II.cpp)
+404. [**第一个只出现一次的字符 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=196&tqId=37558&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E6%258A%258A%25E6%2595%25B0%25E5%25AD%2597%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E7%AC%AC%E4%B8%80%E4%B8%AA) -> [**题目详解**](./leetcode/第一个只出现一次的字符.cpp)
+405. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+406. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
 ---
 **关于作者**：北京邮电大学计算机专业，目前任职于腾讯基础架构开发
