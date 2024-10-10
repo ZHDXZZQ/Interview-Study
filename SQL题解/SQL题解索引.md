@@ -82,7 +82,7 @@
 79. [**牛客直播各科目平均观看时长 - 中等**](https://www.nowcoder.com/practice/e9e7dc4c8623467793f6999cbfee9360?tpId=268&tqId=2286189&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./牛客直播各科目平均观看时长.sql)
 80. [**2021年国庆在北京接单3次及以上的司机统计信息 - 简单**](https://www.nowcoder.com/practice/992783fd80f746d49e790d33ee537c19?tpId=268&tqId=2290884&ru=/exam/oj&qru=/ta/sql-factory-interview/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D268) -> [**题目详解**](./2021年国庆在北京接单3次及以上的司机统计信息.sql)
 81. [**查找最晚入职员工的所有信息 - 入门**](https://www.nowcoder.com/practice/218ae58dfdcd4af195fff264e062138f?tpId=82&tqId=29753&rp=1&ru=/exam/company&qru=/exam/company&sourceUrl=%2Fexam%2Fcompany&difficulty=undefined&judgeStatus=undefined&tags=&title=) -> [**题目详解**](./查找最晚入职员工的所有信息.sql)
-82. [****]() -> [**题目详解**](./xxxx.sql)
+82. [**统计出当前各个title类型对应的员工当前薪水对应的平均工资 - 中等**](https://www.nowcoder.com/practice/c8652e9e5a354b879e2a244200f1eaae?tpId=82&tqId=29768&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D82&difficulty=undefined&judgeStatus=undefined&tags=&title=) -> [**题目详解**](./统计出当前各个title类型对应的员工当前薪水对应的平均工资.sql)
 83. [****]() -> [**题目详解**](./xxxx.sql)
 84. [****]() -> [**题目详解**](./xxxx.sql)
 85. [****]() -> [**题目详解**](./xxxx.sql)

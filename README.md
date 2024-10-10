@@ -465,7 +465,7 @@
 410. [**台阶Nim游戏 - 模板 - 数论**](https://www.acwing.com/problem/content/894/) -> [**题目详解**](./leetcode/台阶Nim游戏.cpp)
 411. [**集合Nim游戏 - 模板 - 数论**](https://www.acwing.com/problem/content/895/) -> [**题目详解**](./leetcode/集合Nim游戏.cpp)
 412. [**拆分Nim游戏 - 模板 - 数论**](https://www.acwing.com/problem/content/896/) -> [**题目详解**](./leetcode/拆分Nim游戏.cpp)
-413. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+413. [**两个链表的第一个公共结点 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=196&tqId=37095&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E7%25AC%25AC%25E4%25B8%2580%25E4%25B8%25AA%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E7%AC%AC%E4%B8%80%E4%B8%AA) -> [**题目详解**](./leetcode/两个链表的第一个公共结点.cpp)
 414. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 415. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
