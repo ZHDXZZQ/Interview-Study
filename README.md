@@ -244,7 +244,7 @@
 189. [**和为K的子数组 - 中等**](https://leetcode.cn/problems/subarray-sum-equals-k/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/和为K的子数组.cpp)
 190. [**找到字符串中所有字母异位词 - 中等**](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/找到字符串中所有字母异位词.cpp)
 191. [**缺失的第一个正数 - 困难**](https://leetcode.cn/problems/first-missing-positive/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/缺失的第一个正数.cpp)
-192. [**滑动窗口的最大值 - 困难**](https://leetcode.cn/problems/sliding-window-maximum/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/滑动窗口的最大值.cpp)
+192. [**滑动窗口的最大值（同牛客剑指offer的 滑动窗口的最大值） - 困难**](https://leetcode.cn/problems/sliding-window-maximum/description/?envType=study-plan-v2&envId=top-100-liked) -> [**题目详解**](./leetcode/滑动窗口的最大值.cpp)
 193. [**交替合并字符串 - 简单**](https://leetcode.cn/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/交替合并字符串.cpp)
 194. [**使用最小花费爬楼梯 - 简单**](https://leetcode.cn/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/使用最小花费爬楼梯.cpp)
 195. [**搜索推荐系统 - 中等**](https://leetcode.cn/problems/search-suggestions-system/description/?envType=study-plan-v2&envId=leetcode-75) -> [**题目详解**](./leetcode/搜索推荐系统.cpp)
@@ -468,7 +468,7 @@
 413. [**两个链表的第一个公共结点 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=196&tqId=37095&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E7%25AC%25AC%25E4%25B8%2580%25E4%25B8%25AA%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E7%AC%AC%E4%B8%80%E4%B8%AA) -> [**题目详解**](./leetcode/两个链表的第一个公共结点.cpp)
 414. [**数字在升序数组中出现的次数 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=196&tqId=37106&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E7%25AC%25AC%25E4%25B8%2580%25E4%25B8%25AA%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B0%E5%AD%97%E5%9C%A8%E5%8D%87%E5%BA%8F) -> [**题目详解**](./leetcode/数字在升序数组中出现的次数.cpp)
 415. [**数组中只出现一次的两个数字 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/389fc1c3d3be4479a154f63f495abff8?tpId=196&tqId=37107&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E7%25AC%25AC%25E4%25B8%2580%25E4%25B8%25AA%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1) -> [**题目详解**](./leetcode/数组中只出现一次的两个数字.cpp)
-416. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+416. [**左旋转字符串 - 中等 - 剑指offer**](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=196&tqId=39713&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E7%25AC%25AC%25E4%25B8%2580%25E4%25B8%25AA%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2) -> [**题目详解**](./leetcode/左旋转字符串.cpp)
 417. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 418. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
