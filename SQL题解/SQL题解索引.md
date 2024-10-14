@@ -84,5 +84,5 @@
 81. [**查找最晚入职员工的所有信息 - 入门**](https://www.nowcoder.com/practice/218ae58dfdcd4af195fff264e062138f?tpId=82&tqId=29753&rp=1&ru=/exam/company&qru=/exam/company&sourceUrl=%2Fexam%2Fcompany&difficulty=undefined&judgeStatus=undefined&tags=&title=) -> [**题目详解**](./查找最晚入职员工的所有信息.sql)
 82. [**统计出当前各个title类型对应的员工当前薪水对应的平均工资 - 中等**](https://www.nowcoder.com/practice/c8652e9e5a354b879e2a244200f1eaae?tpId=82&tqId=29768&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D82&difficulty=undefined&judgeStatus=undefined&tags=&title=) -> [**题目详解**](./统计出当前各个title类型对应的员工当前薪水对应的平均工资.sql)
 83. [**查找当前薪水详情以及部门编号dept_no - 中等**](https://www.nowcoder.com/practice/c63c5b54d86e4c6d880e4834bfd70c3b?tpId=82&tqId=29755&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D82&difficulty=undefined&judgeStatus=undefined&tags=&title=) -> [**题目详解**](./查找当前薪水详情以及部门编号dept_no.sql)
-84. [****]() -> [**题目详解**](./xxxx.sql)
+84. [**插入记录（一） - 入门**](https://www.nowcoder.com/practice/5d2a42bfaa134479afb9fffd9eee970c?tpId=240&tqId=2221797&ru=/exam/oj&qru=/ta/sql-advanced/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D82) -> [**题目详解**](./插入记录（一）.sql)
 85. [****]() -> [**题目详解**](./xxxx.sql)
