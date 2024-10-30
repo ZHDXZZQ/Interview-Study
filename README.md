@@ -480,7 +480,7 @@
 425. [**判断是不是平衡二叉树 - 简单 - 剑指offer**](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=196&tqId=37091&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26pageSize%3D50%26search%3D%25E4%25B8%258D%25E7%2594%25A8%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E9%259D%25A2%25E8%25AF%2595%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E5%B9%B3%E8%A1%A1) -> [**题目详解**](./leetcode/判断是不是平衡二叉树.cpp)
 426. [**判定字符串是否唯一 - 简单**](https://leetcode.cn/problems/is-unique-lcci/description/?envType=study-plan-v2&envId=cracking-the-coding-interview) -> [**题目详解**](./leetcode/判定字符串是否唯一.cpp)
 427. [**判定是否互为字符重排 - 简单**](https://leetcode.cn/problems/check-permutation-lcci/description/?envType=study-plan-v2&envId=cracking-the-coding-interview) -> [**题目详解**](./leetcode/判定是否互为字符重排.cpp)
-428. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
+428. [**图书整理II - 简单**](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/description/?envType=study-plan-v2&envId=coding-interviews) -> [**题目详解**](./leetcode/图书整理II.cpp)
 429. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 430. [****]() -> [**题目详解**](./leetcode/xxxx.cpp)
 
